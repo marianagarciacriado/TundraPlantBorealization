@@ -1,0 +1,288 @@
+"","SPECIES_CLEAN","ClassNew","Synonym","family","FunctionalGroup","Woodiness","Deciduousness","BerryCat","N_fixer","PlantHeight","SLA","SeedMass","LeafN","LeafCN"
+"1","Cassiope tetragona","Ubiquitous",NA,"Ericaceae","Shrub",1,"Evergreen","Not berry",0,0.0854478021978022,5.9382566763072,NA,11.1853105860105,55.1211588171429
+"2","Dryas integrifolia","Ubiquitous",NA,"Rosaceae","Shrub",1,"Evergreen","Not berry",0,0.0573866666666667,9.26923472663955,0.221325449609756,13.9417,NA
+"3","Luzula nivalis","Arctic specialist",NA,"Juncaceae","Graminoid",0,"Not applicable","Not berry",0,0.10414552238806,11.2301500653634,0.169811550857143,17.9066666666667,26.2555560668798
+"4","Luzula confusa","Ubiquitous",NA,"Juncaceae","Graminoid",0,"Not applicable","Not berry",0,0.116708196721311,NA,0.200566037735849,17.627213793,30.95598382
+"5","Oxyria digyna","Ubiquitous",NA,"Polygonaceae","Forb",0,"Not applicable","Not berry",0,0.173928571428571,16.3389174318347,0.831848995973154,33.00113986,NA
+"6","Salix arctica","Ubiquitous",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.0413069139966273,11.6120953767874,0.191796982148148,23.411766744186,NA
+"7","Calluna vulgaris","Boreal-tundra boundary",NA,"Ericaceae","Shrub",1,"Evergreen","Not berry",0,0.170161016949153,11.7952567056652,0.0344,13.8289911197779,36.3475201577525
+"8","Empetrum nigrum","Ubiquitous",NA,"Ericaceae","Shrub",1,"Evergreen","Berry",0,0.100249824067558,6.5092244141233,0.979771929842105,10.4479863124892,55.9842451671199
+"9","Phyllodoce caerulea","Boreal-tundra boundary",NA,"Ericaceae","Shrub",1,"Evergreen","Not berry",0,0.0673737024221453,9.05081524065271,3.63181304347826,10.494,NA
+"10","Vaccinium myrtillus","Boreal-tundra boundary",NA,"Ericaceae","Shrub",1,"Deciduous","Berry",0,0.0887548387096774,19.3141944831433,0.249256140368421,19.3242325531017,26.4843522086646
+"11","Vaccinium vitis-idaea","Boreal-tundra boundary",NA,"Ericaceae","Shrub",1,"Evergreen","Berry",0,0.0478397057666588,6.81343973952801,0.268385714333333,10.4515124088765,50.0964551110597
+"12","Juniperus communis","Boreal-tundra boundary",NA,"Cupressaceae","Shrub",1,"Evergreen","Berry",0,0.5964,6.4133051609756,NA,11.7461177032479,51.9348322253647
+"13","Betula nana","Boreal-tundra boundary",NA,"Betulaceae","Shrub",1,"Deciduous","Not berry",0,0.190244885162492,12.2890676446865,0.232845238142857,21.4618978854051,27.2721803659333
+"14","Arctous alpina","Ubiquitous",NA,"Ericaceae","Shrub",1,"Deciduous","Berry",0,0.0502285714285714,12.8204774669231,NA,NA,NA
+"15","Hieracium alpinum","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.130257575757576,21.3028474836964,NA,NA,NA
+"16","Solidago virgaurea","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.122413349917081,25.9238036699989,0.446170833375,28.964962962963,NA
+"17","Carex bigelowii","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.0947931570762053,18.2291687899133,0.457830434782609,22.1766697302941,24.8437645608
+"18","Festuca ovina","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.353698501570767,17.2901538299955,0.328003174666667,17.2870625145529,32.8788622950103
+"19","Harrimanella hypnoides","Boreal-tundra boundary",NA,"Ericaceae","Shrub",1,"Evergreen","Not berry",0,0.0146588235294118,8.77593345261441,NA,15.07,NA
+"20","Andromeda polifolia","Boreal-tundra boundary",NA,"Ericaceae","Shrub",1,"Evergreen","Not berry",0,0.0529107981220657,6.98527765693547,NA,14.9906774193548,NA
+"21","Vaccinium uliginosum","Ubiquitous",NA,"Ericaceae","Shrub",1,"Deciduous","Berry",0,0.111177158273381,12.8040070622813,0.3191066667,19.4694020284315,27.9632720256081
+"22","Kalmia procumbens","Boreal-tundra boundary",NA,"Ericaceae","Shrub",1,"Evergreen","Not berry",0,0.0361111111111111,4.75368827173251,0.01684,8.05727272727273,NA
+"23","Betula pubescens","Boreal-tundra boundary",NA,"Betulaceae","Shrub",1,"Deciduous","Not berry",0,2.3404347826087,17.1514756432907,0.216641025538462,24.6661736280495,21.4463305292237
+"24","Salix herbacea","Ubiquitous",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.0198065573770492,14.1662525764726,0.344940909090909,27.9864230769231,21.405563984
+"25","Pedicularis lapponica","Boreal-tundra boundary",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,0.0736842105263158,18.3691264704809,NA,36.7868934736128,NA
+"26","Rumex acetosa","Boreal-tundra boundary",NA,"Polygonaceae","Forb",0,"Not applicable","Not berry",0,0.319598743619945,22.3782942783134,0.788440909090909,31.0531578051671,12.6257926830971
+"27","Calamagrostis lapponica","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.187565333333333,16.5105456645864,0.3280666666,13.9207782932197,NA
+"28","Carex lachenalii","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.113878787878788,18.6314356516667,NA,NA,NA
+"29","Luzula multiflora","Boreal-tundra boundary",NA,"Juncaceae","Graminoid",0,"Not applicable","Not berry",0,0.146189655172414,24.5324367214013,0.371111111111111,22.6506778135056,NA
+"30","Luzula spicata","Boreal-tundra boundary",NA,"Juncaceae","Graminoid",0,"Not applicable","Not berry",0,0.130375,15.6123643116471,0.350714285714286,21.494,NA
+"31","Agrostis mertensii","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.140898550724638,25.5882313197826,0.143333333333333,NA,NA
+"32","Carex brunnescens","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.107142857142857,NA,NA,NA,NA
+"33","Rubus chamaemorus","Boreal-tundra boundary",NA,"Rosaceae","Forb",0,"Not applicable","Berry",0,0.058206216505895,13.9649167306299,NA,22.714405583001,22.2175266315
+"34","Poa pratensis","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.278881067961165,20.3254970532472,NA,21.80678735617,29.2498865749
+"35","Sibbaldia procumbens","Boreal-tundra boundary",NA,"Rosaceae","Forb",0,"Not applicable","Not berry",0,0.0306,17.0642275140432,NA,27.73625,NA
+"36","Vahlodea atropurpurea","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"37","Phleum alpinum","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.268404761904762,23.182198994384,0.375378571428571,28.3577916666667,NA
+"38","Ranunculus nivalis","Ubiquitous",NA,"Ranunculaceae","Forb",0,"Not applicable","Not berry",0,0.101056338028169,34.0757522031258,NA,38.1814285714286,NA
+"39","Rhodiola rosea","Ubiquitous",NA,"Crassulaceae","Forb",0,"Not applicable","Not berry",0,0.106259259259259,23.087025046756,NA,31.9590008681638,NA
+"40","Viola biflora","Boreal-tundra boundary",NA,"Violaceae","Forb",0,"Not applicable","Not berry",0,0.0418432835820896,43.9717505286,NA,43.5975,NA
+"41","Antennaria dioica","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.0958511489783453,18.366841616044,NA,15.9907692307692,NA
+"42","Petasites frigidus","Ubiquitous",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.151064814814815,12.3843240841593,0.525,28.4778651560577,16.312124680376
+"43","Gentiana nivalis","Boreal-tundra boundary",NA,"Gentianaceae","Forb",0,"Not applicable","Not berry",0,0.0817888888888889,30.5832592592593,NA,NA,NA
+"44","Ranunculus acris","Boreal-tundra boundary",NA,"Ranunculaceae","Forb",0,"Not applicable","Not berry",0,0.243049345417925,21.1025006247015,1.49845454545455,21.4356436426518,16.9444381441829
+"45","Veronica alpina","Ubiquitous",NA,"Plantaginaceae","Forb",0,"Not applicable","Not berry",0,0.06525,22.3982178405344,0.0558714285714286,29.0318531516164,NA
+"46","Nardus stricta","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.211308823529412,10.8236336586845,0.3145625,14.6935862074487,30.0674450404175
+"47","Anthoxanthum odoratum","Boreal specialist",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.257841327623126,24.4468471722896,0.413318,23.5765454163337,18.2977580080616
+"48","Antennaria alpina","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.105961240310078,22.447731113125,NA,19.21,NA
+"49","Salix glauca","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.464524137931034,10.97596063963,0.246454545454545,18.5163848510811,25.9621154820588
+"50","Pyrola minor","Boreal-tundra boundary",NA,"Ericaceae","Forb",0,"Not applicable","Not berry",0,0.0960507246376812,17.4575002175948,NA,NA,NA
+"51","Alchemilla alpina","Boreal-tundra boundary",NA,"Rosaceae","Forb",0,"Not applicable","Not berry",0,0.109657142857143,13.5524117770833,0.382625,NA,NA
+"52","Campanula rotundifolia","Boreal-tundra boundary",NA,"Campanulaceae","Forb",0,"Not applicable","Not berry",0,0.245007407407407,21.4559901466555,0.0621,23.1375,20.3463291136
+"53","Euphrasia wettsteinii","Ubiquitous",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"54","Potentilla crantzii","Ubiquitous",NA,"Rosaceae","Forb",0,"Not applicable","Not berry",0,0.127366666666667,15.5197743420902,0.361357142857143,29.3548886888889,NA
+"55","Omalotheca supina","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"56","Thalictrum alpinum","Boreal-tundra boundary",NA,"Ranunculaceae","Forb",0,"Not applicable","Not berry",0,0.0579191919191919,17.3606625945783,NA,28.2455445214286,25.9096336477778
+"57","Agrostis capillaris","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.388,29.3550848673379,NA,30.3256249214037,15.8772297532372
+"58","Viola palustris","Boreal-tundra boundary",NA,"Violaceae","Forb",0,"Not applicable","Not berry",0,0.117604166666667,NA,NA,NA,NA
+"59","Deschampsia cespitosa","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.603279279279279,12.4222670260761,0.223684210526316,13.7361433679911,34.3012318095653
+"60","Scorzoneroides autumnalis","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.156873015873016,25.3420476019698,0.661818181818182,21.9422230317941,19.4820955022
+"61","Cerastium cerastoides","Boreal-tundra boundary",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,0.0445454545454545,24.9892857142857,NA,NA,NA
+"62","Epilobium anagallidifolium","Boreal-tundra boundary",NA,"Onagraceae","Forb",0,"Not applicable","Not berry",0,0.0693846153846154,22.268,0.0588375,NA,NA
+"63","Carex vaginata","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.0872790697674419,21.6282615537314,NA,17.2408264461197,NA
+"64","Poa alpina","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.187964285714286,18.44181291925,0.905714285714286,24.170846675,NA
+"65","Astragalus alpinus","Boreal-tundra boundary",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,0.0804516129032258,23.3685603398484,NA,46.9453225806452,NA
+"66","Cerastium fontanum","Boreal-tundra boundary",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,0.252935483870968,29.5502603995212,0.143,17.848,NA
+"67","Festuca rubra","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.314101014198783,11.2536188839639,0.858294117647059,17.3510285508266,30.9365295380885
+"68","Sagina saginoides","Boreal-tundra boundary",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,0.073,NA,NA,NA,NA
+"69","Carex mackenziei","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"70","Saussurea alpina","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.169813953488372,19.2560355703487,1.6208875,17.1007625716701,NA
+"71","Cerastium alpinum","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,23.7225108218182,NA,NA,NA
+"72","Achillea millefolium","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.152457655826558,15.0073242878333,0.1372,23.4474546570163,18.5018296462823
+"73","Geranium sylvaticum","Boreal-tundra boundary",NA,"Geraniaceae","Forb",0,"Not applicable","Not berry",0,0.414385620915033,21.5667222661602,5.668,24.5672159858826,NA
+"74","Carex flava","Boreal specialist",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.491666666666667,NA,NA,NA,NA
+"75","Rhinanthus minor","Boreal-tundra boundary",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,0.352727272727273,15.7789741878547,2.0652,34.8952799904974,11.812895194
+"76","Potentilla erecta","Boreal specialist",NA,"Rosaceae","Forb",0,"Not applicable","Not berry",0,0.201714285714286,23.0101454597626,0.423492063492064,23.5678265243416,20.5232179330175
+"77","Carex capillaris","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,13.34,NA,NA,NA
+"78","Pinguicula vulgaris","Boreal-tundra boundary",NA,"Lentibulariaceae","Forb",0,"Not applicable","Not berry",0,0.0809333333333333,43.0020626130554,0.016396,14.9366785714286,NA
+"79","Parnassia palustris","Boreal-tundra boundary",NA,"Celastraceae","Forb",0,"Not applicable","Not berry",0,0.126363636363636,20.8067950629705,NA,18.2443004422982,27.4522427566438
+"80","Festuca vivipara","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.139967741935484,10.8611426765263,NA,13.90714177,NA
+"81","Carex atrata","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.221916666666667,NA,0.6179375,NA,NA
+"82","Prunella vulgaris","Boreal specialist",NA,"Lamiaceae","Forb",0,"Not applicable","Not berry",0,0.0574960317460317,24.2083923906767,0.6088,22.7340948656235,21.9898247495
+"83","Carex saxatilis","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.162227272727273,13.2009180860188,0.65436800004,27.4574285714286,NA
+"84","Salix lanata","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,1.48126582278481,15.9006076153333,NA,35.998,NA
+"85","Dryas octopetala","Ubiquitous",NA,"Rosaceae","Shrub",1,"Evergreen","Not berry",0,0.0525509803921569,12.0029214987932,0.719810526263158,17.9616795437451,29.115614938125
+"86","Eutrema edwardsii","Ubiquitous",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"87","Salix polaris","Arctic specialist",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.0371731601731602,14.091292886927,NA,27.5337580355978,19.3994516396479
+"88","Silene acaulis","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,0.00896862190812721,18.8665242196618,0.348576923,22.8951718014286,NA
+"89","Saxifraga oppositifolia","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,NA,19.1525402730769,NA,16.93367371,NA
+"90","Minuartia stricta","Boreal-tundra boundary",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"91","Cerastium arcticum","Arctic specialist",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,0.111666666666667,19.8169846633333,NA,NA,NA
+"92","Pedicularis dasyantha","Arctic specialist",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,NA,14.34327144,NA,NA,NA
+"93","Saxifraga cernua","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,0.10119512195122,NA,NA,NA,NA
+"94","Juncus biglumis","Ubiquitous",NA,"Juncaceae","Graminoid",0,"Not applicable","Not berry",0,0.0831428571428571,12.0332384971429,NA,NA,NA
+"95","Erigeron humilis","Ubiquitous",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"96","Trisetum spicatum","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.2435,25.030687535,NA,NA,NA
+"97","Salix reticulata","Ubiquitous",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.0476411764705882,10.0409513972,0.566923076923077,20.2794055544444,NA
+"98","Carex rupestris","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,11.9870089225,NA,NA,NA
+"99","Cardamine bellidifolia","Ubiquitous",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"100","Sagina nivalis","Arctic specialist",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,0.0185714285714286,NA,NA,NA,NA
+"101","Cerastium regelii","Arctic specialist",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"102","Rhododendron lapponicum","Ubiquitous",NA,"Ericaceae","Shrub",1,"Evergreen","Not berry",0,0.0822641509433962,8.6367876924213,NA,17.7181849315068,NA
+"103","Salix hastata","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,NA,NA,NA,21.88,NA
+"104","Salix chamissonis","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,NA,NA,NA,NA,NA
+"105","Tofieldia pusilla","Boreal-tundra boundary",NA,"Tofieldiaceae","Forb",0,"Not applicable","Not berry",0,0.109153846153846,15.3331849307876,NA,15.78238647,NA
+"106","Chamorchis alpina","Boreal specialist",NA,"Orchidaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"107","Astragalus frigidus","Boreal-tundra boundary",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,NA,24.4936080909084,2.9204666668,51.516636470914,NA
+"108","Bartsia alpina","Boreal-tundra boundary",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,0.0802857142857143,18.6120815574884,0.160111111111111,21.4522157640691,NA
+"109","Carex parallela","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,13.3734803563636,NA
+"110","Eriophorum vaginatum","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.18349009009009,10.1545258186314,1.11529411764706,18.743891694,NA
+"111","Pinguicula villosa","Boreal-tundra boundary",NA,"Lentibulariaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"112","Salix niphoclada","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.442516129032258,18.075602158,NA,NA,NA
+"113","Artemisia norvegica","Boreal specialist",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"114","Saussurea angustifolia","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.130079365079365,11.2176599855453,0.935714285714286,NA,NA
+"115","Saxifraga hirculus","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,0.175,NA,NA,NA,NA
+"116","Stellaria longipes","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,0.0585963302752294,15.1298900284239,0.041696428625,NA,NA
+"117","Lupinus arcticus","Boreal-tundra boundary",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,0.165711842105263,7.81291570505714,17.1222222222222,NA,NA
+"118","Arctagrostis latifolia","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.258114754098361,15.3207748291574,NA,20.8727272727273,19.0721957906307
+"119","Tephroseris integrifolia","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.145729674796748,12.3292537608966,0.682352941176471,NA,NA
+"120","Cardamine digitata","Boreal-tundra boundary",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,0.0526,14.457849526,NA,NA,NA
+"121","Pyrola grandiflora","Ubiquitous",NA,"Ericaceae","Forb",0,"Not applicable","Not berry",0,0.0484125,10.3244164501373,4.01666666666667,NA,NA
+"122","Micranthes punctata","Boreal-tundra boundary",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"123","Salix planifolia","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.443421052631579,NA,NA,NA,NA
+"124","Salix rotundifolia","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.0201179104477612,12.6216853081053,NA,25.14,19.5112097512026
+"125","Eriophorum angustifolium","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.249234736842105,13.9169096405754,0.418414814814815,28.5384907904271,16.4561887178692
+"126","Anemone parviflora","Boreal-tundra boundary",NA,"Ranunculaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"127","Oxytropis borealis","Boreal-tundra boundary",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,NA,NA,NA,NA,NA
+"128","Astragalus eucosmus","Boreal-tundra boundary",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,NA,NA,NA,NA,NA
+"129","Salix alaxensis","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,1.65211510791367,11.2164582159673,NA,NA,NA
+"130","Hedysarum boreale","Boreal-tundra boundary",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,NA,NA,NA,NA,NA
+"131","Oxytropis maydelliana","Ubiquitous",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,0.0922777777777778,12.9152547077277,2.2875,NA,NA
+"132","Pedicularis capitata","Ubiquitous",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,0.0808208955223881,8.62606938883333,0.4,NA,NA
+"133","Astragalus umbellatus","Boreal-tundra boundary",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,0.0895593220338983,16.4071991426064,2.7,NA,NA
+"134","Festuca altaica","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"135","Arctous rubra","Boreal-tundra boundary",NA,"Ericaceae","Shrub",1,"Deciduous","Berry",0,NA,NA,NA,NA,NA
+"136","Oxytropis deflexa","Boreal-tundra boundary",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,NA,NA,NA,NA,NA
+"137","Hedysarum hedysaroides","Ubiquitous",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,NA,NA,NA,NA,NA
+"138","Salix phlebophylla","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.0224,11.4858434261071,NA,NA,NA
+"139","Oxytropis nigrescens","Ubiquitous",NA,"Fabaceae","Forb",0,"Not applicable","Not berry",1,NA,NA,NA,NA,NA
+"140","Pedicularis labradorica","Boreal-tundra boundary",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"141","Salix ovalifolia","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,NA,NA,NA,NA,NA
+"142","Hierochloe alpina","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.244718309859155,9.95393764463702,NA,19.93875,NA
+"143","Pedicularis lanata","Ubiquitous",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,0.08075,NA,NA,NA,NA
+"144","Orthilia secunda","Boreal-tundra boundary",NA,"Ericaceae","Forb",0,"Not applicable","Not berry",0,0.110814814814815,16.6914201910039,NA,18.4865,NA
+"145","Rhododendron tomentosum","Boreal-tundra boundary",NA,"Ericaceae","Shrub",1,"Evergreen","Not berry",0,0.0818027415580074,5.80685368315973,NA,14.6520000846821,40.707501375
+"146","Pedicularis verticillata","Boreal-tundra boundary",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,0.14365,11.5997895887,NA,NA,NA
+"147","Senecio lugens","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"148","Carex ericetorum","Boreal specialist",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.224,NA,NA,NA,NA
+"149","Minuartia arctica","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"150","Papaver macounii","Boreal-tundra boundary",NA,"Papaveraceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"151","Salix fuscescens","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,NA,NA,NA,NA,NA
+"152","Carex rariflora","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.276181818181818,NA,NA,NA,NA
+"153","Carex chordorrhiza","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"154","Carex fuliginosa","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,0.2225,NA,NA
+"155","Luzula wahlenbergii","Ubiquitous",NA,"Juncaceae","Graminoid",0,"Not applicable","Not berry",0,0.204,NA,NA,NA,NA
+"156","Carex rotundata","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"157","Kobresia myosuroides","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"158","Carex williamsii","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"159","Valeriana capitata","Boreal-tundra boundary",NA,"Caprifoliaceae","Forb",0,"Not applicable","Not berry",0,0.185333333333333,23.2848131134375,0.767647058823529,NA,NA
+"160","Arnica griscomii","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"161","Salix arbusculoides","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.274428571428571,10.3467362238,NA,NA,NA
+"162","Dupontia fisheri","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.173766871165644,10.0751701495538,NA,17.0015625,29.052002735396
+"163","Carex scirpoidea","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.1247,NA,NA,NA,NA
+"164","Kobresia sibirica","Arctic specialist",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"165","Rumex aquaticus","Boreal-tundra boundary",NA,"Polygonaceae","Forb",0,"Not applicable","Not berry",0,NA,19.9485714285714,NA,NA,NA
+"166","Luzula arcuata","Boreal-tundra boundary",NA,"Juncaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,15.275,NA
+"167","Minuartia biflora","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"168","Minuartia rubella","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"169","Pedicularis flammea","Arctic specialist",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"170","Eriophorum scheuchzeri","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.239235294117647,10.8599148110526,NA,34.0068326428571,NA
+"171","Euphrasia frigida","Arctic specialist",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,0.0792083333333333,18.0266893919151,0.3666,47.8283817884712,NA
+"172","Koenigia islandica","Ubiquitous",NA,"Polygonaceae","Forb",0,"Not applicable","Not berry",0,0.0385714285714286,NA,NA,NA,NA
+"173","Armeria maritima","Boreal-tundra boundary",NA,"Plumbaginaceae","Forb",0,"Not applicable","Not berry",0,0.185714285714286,NA,NA,NA,NA
+"174","Thymus praecox","Boreal-tundra boundary",NA,"Lamiaceae","Shrub",1,"Evergreen","Not berry",0,0.0883333333333333,15.9014109682257,NA,16.4695833333333,NA
+"175","Salix phylicifolia","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,2.685,11.0933599061772,NA,8.83861520851696,NA
+"176","Micranthes nivalis","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,0.0882857142857143,NA,NA,NA,NA
+"177","Linnaea borealis","Boreal-tundra boundary",NA,"Caprifoliaceae","Shrub",1,"Evergreen","Not berry",0,0.0529677419354839,20.6355933008671,NA,9.49,NA
+"178","Luzula parviflora","Boreal-tundra boundary",NA,"Juncaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"179","Poa arctica","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.141703488372093,11.416365071392,NA,NA,NA
+"180","Poa glauca","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.258333333333333,26.1066137566129,NA,NA,NA
+"181","Pedicularis hirsuta","Ubiquitous",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,0.0831551724137931,15.8859617922138,NA,30.28708643,NA
+"182","Carex microglochin","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"183","Saxifraga tricuspidata","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"184","Diapensia lapponica","Ubiquitous",NA,"Diapensiaceae","Shrub",1,"Evergreen","Not berry",0,0.032832,7.70257998044726,NA,13.5542857142857,NA
+"185","Saxifraga aizoides","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,0.0771428571428572,14.4995910685294,NA,17.41389858375,NA
+"186","Taraxacum croceum","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,NA,34.7933333333333,NA,NA,NA
+"187","Cardamine pratensis","Ubiquitous",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,0.181779069767442,9.97387271440117,0.647909090909091,20.8902924325795,NA
+"188","Trollius europaeus","Boreal-tundra boundary",NA,"Ranunculaceae","Forb",0,"Not applicable","Not berry",0,0.503344827586207,22.950534295147,NA,26.3377011479161,NA
+"189","Gymnadenia conopsea","Boreal-tundra boundary",NA,"Orchidaceae","Forb",0,"Not applicable","Not berry",0,0.400407407407407,21.9530687254545,NA,26.34,NA
+"190","Pseudorchis albida","Boreal specialist",NA,"Orchidaceae","Forb",0,"Not applicable","Not berry",0,0.216666666666667,NA,NA,NA,NA
+"191","Potentilla uniflora","Boreal-tundra boundary",NA,"Rosaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"192","Carex supina","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"193","Carex nardina","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"194","Lesquerella arctica","Ubiquitous",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"195","Arenaria pseudofrigida","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"196","Antennaria friesiana","Ubiquitous",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,0.0957333333333333,NA,NA,NA,NA
+"197","Calamagrostis inexpansa","Boreal specialist",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"198","Polemonium acutiflorum","Boreal-tundra boundary",NA,"Polemoniaceae","Forb",0,"Not applicable","Not berry",0,0.4019375,27.8586,NA,NA,NA
+"199","Arnica lessingii","Boreal-tundra boundary",NA,"Asteraceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"200","Carex microchaeta","Boreal-tundra boundary",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,10.74795270875,NA,NA,NA
+"201","Hippuris vulgaris","Ubiquitous",NA,"Plantaginaceae","Forb",0,"Not applicable","Not berry",0,NA,37.2528265556786,NA,NA,NA
+"202","Lagotis glauca","Ubiquitous",NA,"Plantaginaceae","Forb",0,"Not applicable","Not berry",0,0.139372549019608,9.19893021526667,5.075,NA,NA
+"203","Betula glandulosa","Boreal-tundra boundary",NA,"Betulaceae","Shrub",1,"Deciduous","Not berry",0,0.557087465181058,13.2252774178834,NA,24.4840486261333,22.9194166666667
+"204","Androsace chamaejasme","Boreal-tundra boundary",NA,"Primulaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"205","Geum glaciale","Ubiquitous",NA,"Rosaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"206","Micranthes foliolosa","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,0.0903394495412844,NA,NA,NA,NA
+"207","Boykinia richardsonii","Boreal-tundra boundary",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"208","Gentianella propinqua","Boreal-tundra boundary",NA,"Gentianaceae","Forb",0,"Not applicable","Not berry",0,0.0974,25.5609995359667,0.0519805194545455,NA,NA
+"209","Calamagrostis canadensis","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,NA,10.4201680669963,NA,17.1064705882353,NA
+"210","Saxifraga cespitosa","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"211","Ranunculus pygmaeus","Ubiquitous",NA,"Ranunculaceae","Forb",0,"Not applicable","Not berry",0,0.0503333333333333,29.49446289,NA,30.4356293188889,NA
+"212","Draba nivalis","Ubiquitous",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"213","Salix uva-ursi","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,NA,NA,NA,NA,NA
+"214","Salix arctophila","Boreal-tundra boundary",NA,"Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.0915254237288136,NA,NA,NA,NA
+"215","Euphrasia arctica","Boreal specialist",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"216","Veronica wormskjoldii","Boreal-tundra boundary",NA,"Plantaginaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"217","Carex marina","Arctic specialist",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"218","Festuca brachyphylla","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.123,NA,NA,NA,NA
+"219","Silene involucrata","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"220","Kobresia simpliciuscula","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"221","Avenella flexuosa","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"222","Draba norvegica","Ubiquitous",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,0.0414285714285714,NA,NA,NA,NA
+"223","Galium verum","Boreal-tundra boundary",NA,"Rubiaceae","Forb",0,"Not applicable","Not berry",0,0.152373188405797,20.3704738330437,0.6076,18.7268234051996,21.9409062919044
+"224","Galium normanii","Boreal specialist",NA,"Rubiaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"225","Galium boreale","Boreal-tundra boundary",NA,"Rubiaceae","Forb",0,"Not applicable","Not berry",0,0.2770625,21.010994007473,NA,23.1785714285714,NA
+"226","Agrostis vinealis","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.485714285714286,NA,NA,NA,NA
+"227","Festuca baffinensis","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.146290322580645,12.9268667401667,0.619047619047619,NA,NA
+"228","Micranthes nelsoniana","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,0.152005050505051,14.8241470625161,0.0406666666,NA,NA
+"229","Pedicularis langsdorffii","Ubiquitous",NA,"Orobanchaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"230","Parrya nudicaulis","Ubiquitous",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,0.105483146067416,11.1795647886333,3.45,NA,NA
+"231","Minuartia obtusiloba","Boreal-tundra boundary",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"232","Potentilla hyparctica","Ubiquitous",NA,"Rosaceae","Forb",0,"Not applicable","Not berry",0,0.0652368421052632,14.533745679944,NA,29.3730884438462,15.6986334624966
+"233","Draba lactea","Ubiquitous",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,0.0518333333333333,NA,NA,NA,NA
+"234","Draba micropetala","Arctic specialist",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,0.0405833333333333,NA,NA,NA,NA
+"235","Papaver lapponicum","Ubiquitous",NA,"Papaveraceae","Forb",0,"Not applicable","Not berry",0,0.133461538461538,NA,NA,NA,NA
+"236","Hierochloe pauciflora","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.134609022556391,NA,NA,NA,NA
+"237","Cochlearia officinalis","Boreal-tundra boundary",NA,"Brassicaceae","Forb",0,"Not applicable","Not berry",0,0.149769230769231,14.2816666666667,NA,NA,NA
+"238","Micranthes hieraciifolia","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"239","Cerastium beeringianum","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"240","Stellaria humifusa","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"241","Chrysosplenium tetrandrum","Ubiquitous",NA,"Saxifragaceae","Forb",0,"Not applicable","Not berry",0,0.0166666666666667,NA,NA,NA,NA
+"242","Carex subspathacea","Ubiquitous",NA,"Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.0877659574468085,NA,NA,NA,NA
+"243","Silene uralensis","Ubiquitous",NA,"Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,0.0368,NA,NA,NA,NA
+"244","Arctophila fulva","Ubiquitous",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,NA,15.4226755169132,NA,18.6347280315152,26.3848887488036
+"245","Calamagrostis holmii","Boreal-tundra boundary",NA,"Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.13085625,16.3243333333333,NA,NA,NA
+"246","Deschampsia flexuosa","Boreal-tundra boundary","Avenella flexuosa","Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.12404797979798,15.0210130404305,0.343952381,22.3144737906595,26.4976922792904
+"247","Gnaphalium supinum","Boreal-tundra boundary","Omalotheca supina","Asteraceae","Forb",0,"Not applicable","Not berry",0,0.0474893617021277,34.356376956,NA,27.3266666666667,NA
+"248","Antennaria pulchella","Arctic specialist","Antennaria media","Asteraceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"249","Pilosella officinarum","Boreal specialist","Not available","Asteraceae","Forb",0,"Not applicable","Not berry",0,0.0779479166666667,16.2432553066342,0.140666666666667,23.1716822959415,21.7861971477017
+"250","Dactylorhiza viridis","Boreal-tundra boundary","Coeloglossum viride","Orchidaceae","Forb",0,"Not applicable","Not berry",0,0.21875,NA,NA,NA,NA
+"251","Aconitum septentrionale","Boreal-tundra boundary","Aconitum lycoctonum","Ranunculaceae","Forb",0,"Not applicable","Not berry",0,0.997925925925926,NA,NA,NA,NA
+"252","Pyrola rotundifolia","Boreal-tundra boundary","Not available","Ericaceae","Forb",0,"Not applicable","Not berry",0,0.233428571428571,NA,NA,14.6496666666667,NA
+"253","Silene apetala","Ubiquitous","Not available","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"254","Braya purpurascens","Ubiquitous","Braya glabella","Brassicaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"255","Vaccinium microcarpum","Boreal-tundra boundary","Oxycoccus microcarpus","Ericaceae","Shrub",1,"Evergreen","Berry",0,NA,NA,NA,NA,NA
+"256","Persicaria bistorta","Boreal-tundra boundary","Not available","Polygonaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"257","Hedysarum alpinum","Boreal-tundra boundary","Not available","Fabaceae","Forb",0,"Not applicable","Not berry",1,NA,NA,NA,NA,NA
+"258","Oxytropis campestris","Boreal-tundra boundary","Not available","Fabaceae","Forb",0,"Not applicable","Not berry",1,0.106183518518519,11.8624807452,1.86153846153846,NA,NA
+"259","Pedicularis sudetica","Ubiquitous","Not available","Orobanchaceae","Forb",0,"Not applicable","Not berry",0,0.0846752136752137,NA,NA,NA,NA
+"260","Eriophorum chamissonis","Boreal-tundra boundary","Eriophorum russeolum","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.182538461538462,NA,NA,NA,NA
+"261","Doronicum grandiflorum","Boreal specialist","Not available","Asteraceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"262","Calamagrostis stricta","Ubiquitous","Calamagrostis neglecta","Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.148214285714286,23.54802549375,NA,NA,NA
+"263","Arabidopsis lyrata","Ubiquitous","Arabidopsis petraea","Brassicaceae","Forb",0,"Not applicable","Not berry",0,NA,31.5166588888889,NA,NA,NA
+"264","Alopecurus magellanicus","Ubiquitous","Alopecurus borealis","Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.129036363636364,NA,NA,25.3730580041176,17.4986372773333
+"265","Salix lanata x reticulata","Boreal-tundra boundary","Not available","Salicaceae","Shrub",1,"Deciduous","Not berry",0,NA,NA,NA,NA,NA
+"266","Alopecurus alpinus","Ubiquitous","Alopecurus borealis","Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.21433734939759,10.0964892922667,NA,7.16666666666667,NA
+"267","Epilobium latifolium","Ubiquitous","Chamerion latifolium","Onagraceae","Forb",0,"Not applicable","Not berry",0,0.1555,NA,NA,22.7541666666667,NA
+"268","Ranunculus lapponicus","Ubiquitous","Coptidium lapponicum","Ranunculaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"269","Androsace ochotensis","Arctic specialist","Douglasia ochotensis","Primulaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"270","Saxifraga flagellaris","Arctic specialist","Saxifraga platysepala","Saxifragaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"271","Ranunculus pallasii","Boreal-tundra boundary","Coptidium pallasii","Ranunculaceae","Forb",0,"Not applicable","Not berry",0,NA,NA,NA,NA,NA
+"272","Lysimachia europaea","Boreal-tundra boundary","Trientalis europaea","Primulaceae","Forb",0,"Not applicable","Not berry",0,0.0421263227513228,33.0824464067328,NA,20.3542028635258,NA
+"273","Oreojuncus trifidus","Boreal-tundra boundary","Juncus trifidus","Juncaceae","Graminoid",0,"Not applicable","Not berry",0,0.0940505050505051,12.3284720307804,0.131684615384615,28.1653811457493,NA
+"274","Lycopodium complanatum","Boreal specialist","Diphasiastrum complanatum","Lycopodiaceae","Forb",0,"Not applicable","Not berry",0,0.0888888888888889,6.8986253614,NA,8.0405,NA
+"275","Persicaria vivipara","Ubiquitous","Bistorta vivipara","Polygonaceae","Forb",0,"Not applicable","Not berry",0,0.0903456221198157,15.8386111222822,1.5687880952381,32.8725139748523,19.9471837151667
+"276","Carex fimbriata","Boreal specialist","Carex pilulifera","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.221666666666667,20.2250945723734,NA,25.4237210468669,21.0051317329073
+"277","Festuca richardsonii","Ubiquitous","Festuca rubra","Poaceae","Graminoid",0,"Not applicable","Not berry",0,0.314101014198783,11.2536188839639,0.858294117647059,17.3510285508266,30.9365295380885
+"278","Carex × turfosa","Boreal-tundra boundary","Carex nigra","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.194333333333333,21.7218665128893,NA,19.0057142857143,25.1700959748333
+"279","Carex microcarpa","Ubiquitous","Carex aquatilis","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0,0.219465298142718,15.0909813444509,NA,31.798288973384,14.119380003753
+"280","Rumex alpestris","Boreal-tundra boundary","Rumex acetosa","Polygonaceae","Forb",0,"Not applicable","Not berry",0,0.319598743619945,22.3782942783134,0.788440909090909,31.0531578051671,12.6257926830971
+"281","Stellaria crassipes","Ubiquitous","Stellaria longipes","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,0.0585963302752294,15.1298900284239,0.041696428625,NA,NA
+"282","Cerastium glabratum","Ubiquitous","Cerastium alpinum","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0,NA,23.7225108218182,NA,NA,NA
+"283","Salix daphnoides","Boreal-tundra boundary","Salix pulchra","Salicaceae","Shrub",1,"Deciduous","Not berry",0,0.352711934156379,11.6455099751607,NA,28.5325603448276,17.7757278973501
+"284","Oreomecon radicata","Boreal specialist","Papaver radicatum","Papaveraceae","Forb",0,"Not applicable","Not berry",0,0.105236111111111,14.2639362923636,0.136467990623377,NA,NA
+"285","Potentilla fruticosa","Boreal-tundra boundary","Dasiphora fruticosa","Rosaceae","Shrub",1,"Deciduous","Not berry",0,0.477111111111111,19.4007819740629,NA,22.115,NA
+"286","Cardamine digitalis","Boreal-tundra boundary","Cardamine digitata","Brassicaceae","Forb",0,"Not applicable","Not berry",0,0.0526,14.457849526,NA,NA,NA
+"287","Lagotis minor","Ubiquitous","Lagotis glauca","Plantaginaceae","Forb",0,"Not applicable","Not berry",0,0.139372549019608,9.19893021526667,5.075,NA,NA

@@ -1,0 +1,2223 @@
+Genus,Species_name,Arctic.herb.subzone,northern.Arctic.dwarf.shrub.subzone,middle.Arctic.dwarf.shrub.subzone,southern.Arctic.dwarf.shrub.subzone,Arctic.shrub.subzone,Adjacent.non.Arctic..Boreal.or.Boreal.alpine..area,Species.occurring.in.the.Arctic,Arctic.endemic.species..A.E.,Borderline.species..bEN.,Species.occuring.as.stabilized.introduction.only,Species.occuring.as.native.and.non.native.stabilized,Species.occurring.as.non.native.stabilized.and.casual,Sspecies.occurring.as.native.and.non.native.stabilized.and.casual,Species.occurring.both.as.native.and.casual,PAF.code.number.of.genus
+ Lycopodium,a L. annotinum ssp. annotinum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lycopodium,b L. annotinum ssp. alpestre,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lycopodium,a L. clavatum ssp. clavatum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lycopodium,b L. clavatum ssp. monostachyon,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lycopodium, L. dendroideum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Diphasiastrum,a D. complanatum ssp. complanatum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Diphasiastrum,b D. complanatum ssp. montellii,No,No,?,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Diphasiastrum, D. sitchense,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Diphasiastrum, D. alpinum,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Huperzia, H. selago,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Huperzia, H. appressa,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Huperzia, H. arctica,No,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Huperzia, H. haleakalae,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Huperzia, H. miyoshiana,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Selaginella, S. selaginoides,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Selaginella, S. sibirica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Selaginella, S. rupestris,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Isoetes, I. lacustris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Isoetes, I. echinospora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Isoetes, I. muricata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Equisetum, E. fluviatile,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Equisetum, E. palustre,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Equisetum, E. pratense,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Equisetum, E. sylvaticum,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Equisetum,a E. arvense ssp. arvense,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,1,NA
+ Equisetum,b E. arvense ssp. alpestre,R,F,F,F,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Equisetum,a E. hyemale ssp. hyemale,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Equisetum,b E. hyemale ssp. affine,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Equisetum, E. x trachyodon,No,No,No,?,X,X,1,,NA,NA,NA,NA,NA,NA,NA
+ Equisetum,a E. variegatum ssp. variegatum,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Equisetum,b E. variegatum ssp. alaskanum,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Equisetum, E. scirpoides,No,No,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Botrychium, B. virginianum,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Botrychium, B. multifidum (ssp. multifidum),No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Botrychium, B. lanceolatum (ssp. lanceolatum),No,No,?,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Botrychium, B. boreale,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Botrychium, B. pinnatum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Botrychium, B. lunaria,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Botrychium, B. minganense,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Botrychium, B. simplex,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Ophioglossum, O. azoricum,No,No,No,R,No,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Cryptogramma, C. stelleri,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cryptogramma, C. acrostichoides,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cryptogramma, C. sitchensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cryptogramma, C. crispa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Phegopteris, P. connectilis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Asplenium, A. viride,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Asplenium, A. septentrionale,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Matteuccia, M. struthiopteris (ssp. struthiopteris),No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Athyrium, A. filix�femina ssp. filix�femina,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Athyrium, A. filix�femina ssp. cyclosorum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Athyrium, A. filix�femina ssp. angustum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Athyrium, A. distentifolium ssp. distentifolium,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Athyrium, A. distentifolium ssp. americanum,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Diplazium, D. sibiricum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Gymnocarpium, G. dryopteris,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gymnocarpium, G. continentale,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cystopteris, C. fragilis,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cystopteris, C. alpina,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Cystopteris, C. montana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Woodsia, W. ilvensis,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Woodsia, W. alpina,No,R,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Woodsia, W. glabella,No,R,F,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryopteris, D. expansa,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryopteris, D. carthusiana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryopteris, D. marginalis,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryopteris, D. filix�mas,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryopteris, D. fragrans,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Polystichum, P. lonchitis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Polypodium, P. sibiricum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Polypodium, P. vulgare,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Blechnum, B. spicant,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Abies, A. balsamea,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Picea,a P. abies ssp. abies,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Picea,b P. abies ssp. obovata,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Picea, P. glauca,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Picea, P. mariana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Larix, L. sibirica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Larix, L. dahurica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Larix, L. cajanderi,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Larix, L. laricina,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pinus,a P. sylvestris ssp. lapponica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pinus, P. sibirica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pinus, P. pumila,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juniperus,a J. communis ssp. communis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juniperus,b J. communis ssp. nana,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juniperus,c J. communis ssp. depressa,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juniperus, J. horizontalis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Nuphar, N. pumila,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Nuphar, N. polysepala,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Nuphar, N. variegata,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Nymphaea,a N. tetragona ssp. tetragona,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Nymphaea,b N. tetragona ssp. leibergii,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Calla, C. palustris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lemna, L. minor,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lemna, L. turionifera,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lemna, L. trisulca,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Tofieldia, T. pusilla,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tofieldia, T. coccinea,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Triantha, T. glutinosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Butomus, B. umbellatus,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Alisma, A. plantago�aquatica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Alisma, A. triviale,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Alisma, A. lanceolatum,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Sagittaria, S. cuneata,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Sagittaria, S. natans,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Scheuchzeria,a S. palustris ssp. americanus,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Triglochin, T. maritima,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Triglochin, T. palustris,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ruppia, R. maritima,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ruppia, R. cirrhosa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Zostera, Z. angustifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. natans,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. epihydrus,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. gramineus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton,a P. alpinus ssp. alpinus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton,b P. alpinus ssp. tenuifolius,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton,a P. perfoliatus ssp. perfoliatus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton,b P. perfoliatus ssp. richardsonii,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. praelongus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. lucens,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. robbinsii,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. compressus ,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. zosteriformis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. foliosus (ssp. foliosus),No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. friesii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. sibiricus,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. subsibiricus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. groenlandicus,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. pusillus,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Potamogeton, P. berchtoldii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stuckenia,a S. filiformis ssp. filiformis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stuckenia,b S. filiformis ssp. borealis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stuckenia,c S. filiformis ssp. occidentalis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stuckenia, S. pectinata,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stuckenia, S. vaginata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stuckenia, S. subretusa,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Zannichellia, Z. palustris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anticlea, A. elegans,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anticlea, A. sibirica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Veratrum,a V. lobelianum var. misae,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Veratrum, V. oxysepalum,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Veratrum,a V. viride ssp. eschscholtzii,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Paris, P. quadrifolia,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Gagea, G. fragifera,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lloydia, L. serotina,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Fritillaria, F. camschatcensis,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Streptopus,a S. amplexifolius ssp. americanus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Streptopus, S. lanceolatus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cypripedium, C. guttatum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cypripedium,a C. parviflorum var. makasin,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cypripedium, C. passerinum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calypso,a C. bulbosa var. americana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Corallorhiza, C. trifida,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Listera, L. borealis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Listera,a L. cordata var. cordata,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Listera,b L. cordata var. nephrophylla,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Listera, L. ovata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epipactis, E. atrorubens,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Spiranthes, S. romanzoffiana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Goodyera, G. repens,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Chamorchis, C. alpina,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pseudorchis, P. albida,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pseudorchis, P. straminea,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Limnorchis, L. dilatata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Limnorchis, L. hyperborea,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Limnorchis, L. aquilonis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Limnorchis, L. huronensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lysiella, L. obtusata,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lysiella, L. oligantha,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Gymnadenia, G. conopsea,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Amerorchis, A. rotundifolia,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Coeloglossum, C. viride,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dactylorhiza, D. fuchsii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dactylorhiza, D. maculata,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dactylorhiza, D. incarnata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dactylorhiza, D. lapponica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dactylorhiza, D. aristata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Iris, I. setosa,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sisyrinchium, S. mucronatum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Sisyrinchium, S. groenlandicum,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Sisyrinchium, S. montanum,No,No,*,No,R,S,1,,NA,NA,1,NA,NA,NA,NA
+ Allium, A. strictum,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Allium, A. schoenoprasum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Maianthemum, M. bifolium,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Maianthemum, M. canadense,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Maianthemum, M. trifolium,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Maianthemum, M. stellatum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sparganium, S. emersum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sparganium, S. multipedunculatum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sparganium, S. angustifolium,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sparganium, S. gramineum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Sparganium, S. natans,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sparganium, S. hyperboreum,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. biglumis,F,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. longirostris,No,No,No,No,R,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. triglumis,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. albescens,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus,a J. castaneus ssp. castaneus,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus,b J. castaneus ssp. leucochlamys,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus,a J. stygius ssp. americanus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. subtilis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. articulatus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. alpinoarticulatus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. nodosus,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Juncus, J. bulbosus (ssp. bulbosus),No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. mertensianus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. ranarius,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. minutulus,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Juncus, J. bufonius,No,No,No,No,*,F,1,,NA,NA,NA,1,NA,NA,NA
+ Juncus,a J. gerardii ssp. gerardii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus,b J. gerardii ssp. atrofuscus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. vaseyi,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. squarrosus,No,No,**,No,R,S,1,,NA,NA,NA,NA,NA,1,NA
+ Juncus, J. trifidus,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. tenuis,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Juncus, J. filiformis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. brachyspathus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus,a J. arcticus ssp. arcticus,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus,b J. arcticus ssp. alaskanus,No,No,No,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. haenkei,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus,a J. balticus ssp. balticus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus,b J. balticus ssp. littoralis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Juncus, J. drummondii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. pilosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. rufescens,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. luzuloides,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Luzula,a L. parviflora ssp. parviflora,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula,b L. parviflora ssp. fastigiata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula,c L. parviflora ssp. melanocarpa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. wahlenbergii,No,No,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. piperi,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Luzula, L. spicata (ssp. spicata),No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. confusa,F,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula,a L. arcuata ssp. arcuata,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula,b L. arcuata ssp. unalaschkensis,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. nivalis,F,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. kjellmaniana,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula,a L. multiflora ssp. multiflora,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Luzula,b L. multiflora ssp. frigida,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula,c L. multiflora ssp. sibirica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. capitata,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. groenlandica,No,No,No,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. oligantha,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Luzula, L. pallescens,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Luzula, L. sudetica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Schoenoplectus, S. validus,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Schoenoplectus, S. pungens,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Bolboschoenus, B. planiculmis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Blysmopsis, B. rufa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Maximowicziella, M. japonica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum, E. virginicum,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Eriophorum, E. viridicarinatum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,a E. gracile ssp. gracile,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,b E. gracile ssp. asiaticum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum, E. latifolium,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,a E. angustifolium ssp. angustifolium,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,b E. angustifolium ssp. triste,No,R,F,F,R,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum, E. x sorenseni,No,No,S,S,?,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,a E. scheuchzeri ssp. scheuchzeri,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,b E. scheuchzeri ssp. arcticum,R,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum, E. tolmatchevii,No,No,No,?,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,a E. russeolum ssp. russeolum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,b E. russeolum ssp. leiocarpum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum, E. x medium,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,a E. vaginatum ssp. vaginatum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum,b E. vaginatum ssp. spissum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum, E. callitrix,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Eriophorum, E. brachyantherum,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trichophorum, T. alpinum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trichophorum, T. uniflorum,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Trichophorum, T. cespitosum (ssp. cespitosum),No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eleocharis,a E. quinqueflora ssp. quinqueflora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eleocharis,b E. quinqueflora ssp. fernaldii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eleocharis, E. acicularis (ssp. acicularis),No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eleocharis, E. palustris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eleocharis, E. macrostachya,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Eleocharis, E. mamillata (ssp. mamillata),No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Eleocharis, E. uniglumis (ssp. uniglumis),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eleocharis, E. kamtschatica,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Kobresia, K. myosuroides,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Kobresia, K. sibirica,No,No,R,S,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Kobresia,a K. filifolia ssp. subfilifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Kobresia,a K. simpliciuscula ssp. subholarctica,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. atherodes,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. lasiocarpa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. mollissima,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. rostrata,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. utriculata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. rhynchophysa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. rotundata,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. miliaris,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. vesicaria,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. membranacea,No,?,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. saxatilis ssp. saxatilis,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. saxatilis ssp. laxa,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. oligosperma,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,"b C. vaginata ssp. ""nova""",No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. panicea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. livida,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. laxa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. bicolor,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. aurea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. garberi,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. sabynensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. trautvetteriana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. flava,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. demissa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. viridula var. pulchella,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. concinna,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. pediformis ssp. pediformis,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Carex,b C. pediformis ssp. reventa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. globularis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. vanheurckii (ssp. vanheurckii),No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. deflexa (var. deflexa),No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. umbellata,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. pilulifera,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. ericetorum,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Carex, C. melanocarpa,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. alba,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. eburnea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. supina ssp. spaniocarpa,No,No,R,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. glacialis,No,No,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. macrogyna,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. petricosa var. petricosa,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. petricosa var. misandroides,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Carex,a C. fuliginosa ssp. misandra,R,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. atrofusca,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. williamsii,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. ledebouriana (ssp. ledebouriana),No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. krausei,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. capillaris ssp. capillaris,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. capillaris ssp. chlorostachys,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,c C. capillaris ssp. fuscidula,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. paupercula,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. limosa,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. rariflora,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. pluriflora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. macrochaeta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. riishirensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. podocarpa,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. microchaeta ssp. microchaeta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. microchaeta ssp. nesophila,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. gmelinii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. buxbaumii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. adelostoma,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. atrata,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. atrosquamea,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Carex, C. albonigra,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. aterrima (ssp. aterrima),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. sabulosa ssp. leiophylla,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. stylosa var. stylosa,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. stylosa var. nigritella,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. meyeriana,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Carex, C. holostoma,No,No,No,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. media,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. norvegica ssp. norvegica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. norvegica ssp. inserrulata,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,c C. norvegica ssp. conicorostrata,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. paleacea,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. lyngbyei ssp. lyngbyei,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. lyngbyei ssp. cryptocarpa,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. salina,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. ramenskii,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. subspathacea,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. recta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. halophila auct.,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. acuta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. nigra ssp. nigra,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. nigra ssp. juncella,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. appendiculata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. aquatilis ssp. aquatilis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. aquatilis var. dives,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,c C. aquatilis ssp. stans,No,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. schmidtii,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Carex, C. minuta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. cespitosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. bigelowii ssp. bigelowii,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. bigelowii ssp. rigida,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,c C. bigelowii ssp. lugens,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. eleusinoides,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. lenticularis var. lenticularis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. lenticularis var. lipocarpa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. rufina,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. diandra,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. pseudocuraica,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Carex, C. praecox,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Carex, C. pallida,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. chordorrhiza,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. duriuscula,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. maritima,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. enervis (ssp. enervis),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. disperma,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. macloviana,No,No,No,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. pachystachya,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Carex, C. praticola,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. foenea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. interior,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. echinata (ssp. echinata),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. mackenziei,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. canescens (ssp. canescens),No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. lapponica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. bonanzensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. arcta,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. kreczetoviczii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. brunnescens ssp. brunnescens,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. brunnescens ssp. vitilis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,c C. brunnescens ssp. alaskana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. trisperma,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. loliacea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. tenuiflora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. heleonastes,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. marina ssp. marina,No,No,S,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. marina ssp. pseudolagopina,No,No,S,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. glareosa (ssp. glareosa),No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. lachenalii,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. ursina,No,R,F,F,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. dioica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. gynocrates,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. parallela ssp. parallela,No,No,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. parallela ssp. redowskiana,No,No,No,R,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. microglochin,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. pauciflora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. obtusata,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. rupestris,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. micropoda,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. leptalea (ssp. leptalea),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. filifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. anthoxanthea,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. scirpoidea ssp. scirpoidea,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. scirpoidea ssp. stenochlaena,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. pulicaris,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. capitata,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex, C. arctogena,No,No,No,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,a C. nardina ssp. nardina,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Carex,b C. nardina ssp. hepburnii,No,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus, E. mutabilis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus,a E. trachycaulus ssp. trachycaulus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus,b E. trachycaulus ssp. novae�angliae,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus,c E. trachycaulus ssp. subsecundus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus,d E. trachycaulus ssp. virescens,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus, E. violaceus,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus,a E. alaskanus ssp. alaskanus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus,b E. alaskanus ssp. borealis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus,c E. alaskanus ssp. hyperarcticus,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus, E. macrourus,No,No,?,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus, E. jacutensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus,a E. fibrosus ssp. fibrosus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus,b E. fibrosus ssp. subfibrosus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus, E. caninus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Elymus, E. confusus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pseudoroegneria, P. spicata (ssp. spicata),No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pseudoroegneria,a P. strigosa ssp. jacutorum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Elytrigia, E. repens (ssp. repens),No,No,No,No,*,F,1,,NA,1,NA,NA,NA,NA,NA
+ Hystrix, H. sibirica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Leymus,a L. mollis ssp. mollis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Leymus,b L. mollis ssp. villosissimus,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Leymus, L. interior,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Leymus, L. arenarius,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Leymus,a L. innovatus ssp. innovatus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Leymus,b L. innovatus ssp. velutinus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hordeum, H. jubatum,No,No,No,No,R,F,1,,NA,NA,NA,NA,1,NA,NA
+ Hordeum, H. brachyantherum,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Hordeum, H. brevisubulatum,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Bromopsis, B. pumpelliana,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Bromopsis, B. inermis,No,No,No,No,*,S,1,,NA,NA,NA,1,NA,NA,NA
+ Bromopsis, B. ciliata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anthoxanthum, A. nipponicum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anthoxanthum, A. odoratum,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Hierochloe, H. alpina,No,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hierochloe, H. orthantha,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hierochloe,a H. odorata ssp. odorata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hierochloe,b H. odorata ssp. arctica,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hierochloe,c H. odorata ssp. kolymensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hierochloe,a H. glabra ssp. sibirica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hierochloe, H. pauciflora,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Avenula, A. pubescens,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Avenula, A. dahurica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Helictotrichon, H. krylovii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Trisetum,a T. sibiricum ssp. sibiricum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trisetum,b T. sibiricum ssp. litorale,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trisetum, T. subalpestre,No,No,No,?,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Trisetum,a T. spicatum ssp. spicatum,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trisetum,b T. spicatum ssp. molle,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Koeleria,a K. pyramidata ssp. seminuda,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Koeleria,a K. glauca ssp. pohleana,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Koeleria, K. asiatica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sphenopholis, S. intermedia,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Deschampsia, D. cespitosa,No,No,**,*,F,F,1,,NA,NA,1,NA,NA,NA,NA
+ Deschampsia, D. alpina,R,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Deschampsia, D. brevifolia,F,F,F,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Deschampsia, D. anadyrensis,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Deschampsia,a D. sukatschewii ssp. sukatschewii,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Deschampsia,b D. sukatschewii ssp. orientalis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Deschampsia,c D. sukatschewii ssp. borealis,No,?,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Deschampsia, D. obensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Deschampsia, D. beringensis,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Avenella, A. flexuosa,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vahlodea, V. atropurpurea,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vahlodea,a V. latifolia ssp. paramushirensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Milium, M. effusum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis, C. sesquiflora,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis,a C. purpurascens ssp. purpurascens,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis,b C. purpurascens ssp. laricina,No,No,No,?,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis,c C. purpurascens ssp. arctica,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis,a C. lapponica ssp. lapponica,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis,b C. lapponica ssp. sibirica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis,a C. neglecta ssp. neglecta,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis,b C. neglecta ssp. groenlandica,No,?,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis, C. holmii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis, C. inexpansa,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis, C. deschampsioides,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis, C. phragmitoides,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis, C. purpurea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis, C. tenuis,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis,a C. canadensis ssp. canadensis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis,b C. canadensis ssp. langsdorfii,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calamagrostis, C. epigeios,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Agrostis, A. stolonifera,No,No,No,?,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Agrostis, A. gigantea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Agrostis, A. capillaris,No,No,No,No,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Agrostis, A. exarata,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Agrostis, A. alaskana,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Agrostis, A. canina,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Agrostis, A. vinealis,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Agrostis, A. kudoi,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Agrostis, A. mertensii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Agrostis, A. anadyrensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Agrostis, A. clavata,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Agrostis, A. scabra,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. altaica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca,a F. rubra ssp. rubra,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca,b F. rubra ssp. richardsonii,No,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. baffinensis,No,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. brevissima,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. hyperborea,S,F,F,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. edlundiae,R,F,F,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. brachyphylla,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. groenlandica,No,No,R,S,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. vivipara,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. frederikseniae,No,R,F,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. viviparoidea,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. lenensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. auriculata,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. saximontana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. kolymensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Festuca, F. ovina (ssp. ovina),No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Schedonorus, S. pratensis,No,No,No,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Lolium, L. perenne,No,No,No,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Arctopoa, A. eminens,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctopoa, A. trautvetteri,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctopoa, A. subfastigiata,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Poa,a P. alpina var. alpina,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,b P. alpina var. vivipara,R,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. x jemtlandica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,a P. arctica ssp. arctica,S,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,b P. arctica ssp. caespitans,S,F,F,S,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,c P. arctica ssp. lanata,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. macrocalyx,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,a P. pratensis ssp. pratensis,No,No,No,*,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,b P. pratensis ssp. angustifolia,No,No,No,No,*,R,1,,NA,1,NA,NA,NA,NA,NA
+ Poa,c P. pratensis ssp. irrigata,No,No,No,*,F,F,1,,NA,NA,1,NA,NA,NA,NA
+ Poa,d P. pratensis ssp. alpigena,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,e P. pratensis ssp. colpodea,R,F,F,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. sublanata,No,No,No,?,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. porsildii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. sibirica,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. trivialis (ssp. trivialis),No,No,**,No,R,F,1,,NA,NA,NA,NA,1,NA,NA
+ Poa, P. nemoralis,No,No,No,No,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Poa, P. palustris,No,No,**,*,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Poa, P. ochotensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. botryoides,No,No,No,?,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. arctostepporum,No,No,?,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. glauca,No,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. compressa,No,No,No,No,*,R,1,,NA,NA,NA,1,NA,NA,NA
+ Poa,a P. hartzii ssp. hartzii,No,R,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,b P. hartzii ssp. alaskana,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Poa,c P. hartzii ssp. vrangelica,No,No,?,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. ammophila,No,No,No,No,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Poa,a P. abbreviata ssp. abbreviata,F,F,F,S,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,b P. abbreviata ssp. pattersonii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. pseudoabbreviata,No,No,R,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa,a P. laxa ssp. flexuosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. sp. (aff. laxa),No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. leptocoma,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. paucispicula,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Poa, P. supina,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Poa, P. annua,No,No,**,R,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Hyalopoa, H. lanatiflora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctophila, A. fulva,No,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctophila, xArctodupontia,,,,,,,NA,,NA,NA,NA,NA,NA,NA,3428
+ Arctophila, xA. scleroclada,No,No,R,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Dupontia, D. fisheri,R,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Dupontia, xDuarctopoa,,,,,,,NA,,NA,NA,NA,NA,NA,NA,3430
+ Dupontia, xD. labradorica,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia,a P. phryganodes ssp. phryganodes,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia,b P. phryganodes ssp. neoarctica,No,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia,c P. phryganodes ssp. sibirica,No,?,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia,d P. phryganodes ssp. vilfoidea,No,S,F,S,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. maritima,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. nuttalliana,No,No,R,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia,a P. borealis ssp. borealis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia,b P. borealis ssp. neglecta,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. banksiana,No,No,No,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. hauptiana,No,No,No,R,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Puccinellia, P. distans,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Puccinellia, P. nutkaensis,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. arctica,No,R,R,R,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. porsildii,No,No,No,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. groenlandica,No,No,?,S,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. andersonii,R,S,S,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. vaginata,No,R,F,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. angustata,S,F,F,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. palibinii,No,No,R,S,?,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. sibirica,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. lenensis,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. svalbardensis,No,R,R,No,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. gorodkovii,No,R,R,No,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. pumila,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. tenella,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. langeana,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. bruggemannii,R,F,F,S,F,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. vahliana,F,F,F,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia,a P. wrightii ssp. wrightii,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia,b P. wrightii ssp. colpodioides,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Puccinellia, P. beringensis,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Phippsia, P. algida,F,F,F,S,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Phippsia, P. concinna,F,F,F,S,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Phippsia, xPucciphippsia,,,,,,,NA,,NA,NA,NA,NA,NA,NA,3433
+ Phippsia, xP. vacillans,R,S,S,?,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Phippsia, xP. czukczorum,No,No,No,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Catabrosa, C. aquatica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dactylis, D. glomerata,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Cinna, C. latifolia,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctagrostis,a A. latifolia ssp. latifolia,R,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctagrostis,b A. latifolia ssp. arundinacea,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Beckmannia, B. syzigachne,No,No,No,No,R,F,1,,NA,NA,NA,NA,1,NA,NA
+ Beckmannia,a B. eruciformis ssp. borealis,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,1,NA
+ Phalaroides, P. arundinacea,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Phleum, P. alpinum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Phleum, P. pratense (ssp. pratense),No,No,**,**,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Limnas, L. malyschevii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Alopecurus,a A. pratensis ssp. pratensis,No,No,No,No,*,S,1,,NA,NA,NA,1,NA,NA,NA
+ Alopecurus,b A. pratensis ssp. alpestris,No,No,No,R,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Alopecurus, A. arundinaceus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alopecurus, A. borealis,S,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alopecurus, A. stejnegeri,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Alopecurus, A. glaucus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alopecurus, A. aequalis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alopecurus, A. geniculatus,No,No,No,No,*,F,1,,NA,1,NA,NA,NA,NA,NA
+ Schizachne, S. purpurascens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Glyceria, G. borealis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Glyceria, G. striata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Glyceria,a G. grandis var. komarovii,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Pleuropogon, P. sabinei,R,F,F,S,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Melica, M. nutans,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Piptatherum, P. canadense,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Piptatherum, P. pungens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Nardus, N. stricta,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Molinia, M. caerulea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Danthonia, D. intermedia,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Danthonia, D. spicata,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Muhlenbergia, M. glomerata,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Ceratophyllum, C. demersum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Caltha,a C. palustris ssp. palustris,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Caltha,b C. palustris ssp. radicans,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Caltha,c C. palustris ssp. sibirica,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Caltha, C. natans,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Trollius, T. europaeus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trollius, T. x apertus,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trollius, T. asiaticus,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trollius, T. sibiricus,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trollius, T. membranostylis,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Trollius, T. chartosepalus,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Actaea, A. spicata,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Actaea, A. erythrocarpa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Actaea, A. rubra,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Coptis, C. trifolia,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Aquilegia, A. brevistyla,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thalictrum, T. alpinum,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thalictrum,a T. sparsiflorum ssp. sparsiflorum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thalictrum,b T. sparsiflorum ssp. richardsonii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thalictrum, T. venulosum,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Thalictrum, T. foetidum,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Thalictrum,a T. minus ssp. kemense,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thalictrum,a T. simplex ssp. boreale,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thalictrum, T. flavum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Delphinium, D. cheilanthum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Delphinium, D. chamissonis,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Delphinium,a D. brachycentrum ssp. maydellianum,No,No,No,No,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Delphinium, D. middendorffii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Delphinium, D. glaucum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Delphinium,a D. elatum ssp. elatum,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Delphinium,b D. elatum ssp. cryophilum,No,No,No,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Delphinium, D. ochotense,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconitum,a A. lycoctonum ssp. septentrionale,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconitum, A. baicalense,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconitum, A. x stoerkianum,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Aconitum,a A. delphinifolium var. delphinifolium,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconitum,b A. delphinifolium var. paradoxum,No,No,No,S,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconitum, A. productum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone, A. canadensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone, A. dichotoma,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone, A. nemorosa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,1,NA
+ Anemone,a A. ranunculoides ssp. jenisseensis,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Anemone, A. richardsonii,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone,a A. sylvestris ssp. sylvestris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone,b A. sylvestris ssp. ochotensis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone, A. parviflora,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone,a A. drummondii var. lithophila,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone, A. multiceps,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone, A. multifida,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone, A. biarmiensis,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Anemone, A. calva,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone, A. sibirica,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Anemone, A. villosissima,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pulsatilla,a P. patens ssp. multifida,No,No,?,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pulsatilla,b P. patens ssp. angustifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pulsatilla, P. dahurica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Clematis, C. sibirica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Clematis, C. ochotensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxygraphis, O. glacialis,No,R,S,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,a R. glacialis ssp. glacialis,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,b R. glacialis ssp. alaskensis,No,No,No,?,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. camissonis,No,No,R,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. reptans,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,a R. sceleratus ssp. sceleratus,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Ranunculus,b R. sceleratus ssp. reptabundus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,c R. sceleratus ssp. multifidus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,a R. gmelinii ssp. gmelinii,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,b R. gmelinii ssp. purshii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,a R. hyperboreus ssp. hyperboreus,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,b R. hyperboreus ssp. arnellii,R,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,c R. hyperboreus ssp. tricrenatus,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. peltatus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. aquatilis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. confervoides,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. subrigidus,No,R,R,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. pygmaeus,F,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. sabinei,F,F,F,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. nivalis,F,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. sulphureus,F,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. eschscholtzii (ssp. eschscholtzii),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. punctatus,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. grayi,No,No,R,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. allenii,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. arcticus,No,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. rigescens,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. auricomus s. lat.,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. monophyllos s. lat.,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. abortivus,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. acris,No,No,**,R,F,F,1,,NA,NA,NA,NA,1,NA,NA
+ Ranunculus,a R. subborealis ssp. subborealis,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,b R. subborealis ssp. villosus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,c R. subborealis ssp. pumilus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,a R. turneri ssp. turneri,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus,b R. turneri ssp. jacuticus,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. subcorymbosus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. repens,No,No,**,*,F,F,1,,NA,NA,NA,NA,1,NA,NA
+ Ranunculus, R. pensylvanicus,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. macounii,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Ranunculus, R. pacificus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cyrtorhyncha, C. cymbalaria,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Coptidium, C. lapponicum,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Coptidium, C. x spitsbergense,No,R,S,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Coptidium, C. pallasii,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. walpolei,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. gorodkovii,No,No,R,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. cornwallisensis,F,F,S,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. uschakovii,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. calcareum,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver," P. ""murrayi""",No,No,No,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. dahlianum,F,F,F,S,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. alaskanum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. mcconnellii,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. macounii,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. anjuicum,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. variegatum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. keelei,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. paucistamineum,No,No,R,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. atrovirens,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver,a P. microcarpum ssp. microcarpum,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver,b P. microcarpum ssp. czekanowskyi,No,No,No,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver,a P. pulvinatum ssp. pulvinatum,No,No,R,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver,b P. pulvinatum ssp. tschuktschorum,No,No,R,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. angustifolium,No,No,S,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. nivale,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver," P. ""lenaense""",No,No,No,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. leucotrichum,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. sp. Khatanga,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver,b P. nudicaule ssp. insulare,No,No,R,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. croceum,No,No,No,*,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Papaver, P. labradoricum,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. detritophilum,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. schamurinii,No,No,R,S,S,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. hypsipetes,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. multiradiatum,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. chionophilum,No,No,R,S,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. hultenii,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. sp. Banks,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Papaver,a P. lapponicum ssp. lapponicum,No,R,S,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver,b P. lapponicum ssp. occidentale,No,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver,c P. lapponicum ssp. jugoricum,No,No,?,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver,d P. lapponicum ssp. orientale,No,No,?,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Papaver, P. radicatum (ssp. radicatum),No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Dicentra, D. peregrina,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Corydalis, C. arctica,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Corydalis, C. bracteata,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Corydalis, C. sibirica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Corydalis, C. aurea,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Capnoides, C. sempervirens,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Drosera, D. rotundifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Drosera, D. anglica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Drosera, D. intermedia,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Armeria, A. maritima,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Armeria, A. scabra,No,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Polygonum, P. aviculare,No,No,No,No,*,F,1,,NA,NA,NA,1,NA,NA,NA
+ Polygonum, P. boreale,No,No,**,*,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Polygonum, P. neglectum,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Polygonum, P. microspermum,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Polygonum,a P. humifusum ssp. humifusum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Polygonum,b P. humifusum ssp. caurianum,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Polygonum, P. hudsonianum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Polygonum,a P. raii ssp. norvegicum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Bistorta, B. vivipara,F,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Bistorta, B. elliptica,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Bistorta, B. plumosa,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Persicaria,a P. amphibia ssp. amphibia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Persicaria,b P. amphibia ssp. laevimarginata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Koenigia, K. islandica,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconogonum,a A. alaskanum var. alaskanum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconogonum,b A. alaskanum var. glabrescens,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconogonum, A. tripterocarpum,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconogonum, A. ocreatum,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Aconogonum, A. ajanense,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxyria, O. digyna,F,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. longifolius,No,No,**,**,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Rumex, R. crispus,No,No,No,No,*,R,1,,NA,NA,NA,1,NA,NA,NA
+ Rumex, R. confertus,No,No,No,No,*,F,1,,NA,NA,NA,1,NA,NA,NA
+ Rumex, R. aquaticus,No,No,R,S,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Rumex,a R. aquaticus ssp. aquaticus,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Rumex,b R. aquaticus ssp. protractus,No,No,No,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. arcticus,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. pseudonatronatus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. occidentalis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. gmelinii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. sibiricus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. hultenii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex,a R. pallidus ssp. subarcticus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. maritimus,No,No,No,No,R,S,1,,NA,NA,1,NA,NA,NA,NA
+ Rumex, R. fueginus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex,a R. acetosa ssp. acetosa,No,No,*,*,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Rumex,b R. acetosa ssp. islandicus,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex,c R. acetosa ssp. lapponicus,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex,d R. acetosa ssp. pseudoxyria,No,No,?,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. thyrsiflorus,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. oblongifolius,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex,a R. acetosella ssp. acetosella,No,No,**,?,F,F,1,,NA,NA,NA,NA,1,NA,NA
+ Rumex,b R. acetosella ssp. tenuifolius,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex,c R. acetosella ssp. arenicola,No,?,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. krausei,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. beringensis,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. aureostigmaticus,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Rumex, R. graminifolius,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rheum, R. compactum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. media,No,No,**,*,F,F,1,,NA,NA,NA,NA,1,NA,NA
+ Stellaria, S. bungeana,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. nemorum (ssp. nemorum),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. holostea,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Stellaria, S. crassifolia,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. humifusa,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. calycantha,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria,a S. borealis ssp. borealis,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. graminea,No,No,**,No,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Stellaria, S. palustris,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. fennica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. hebecalyx,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. umbellata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. longifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. longipes s. lat.,F,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. alaskana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria,a S. ruscifolia ssp. aleutica,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Stellaria, S. eschscholtziana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. fischeriana,No,No,No,?,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Stellaria, S. jacutica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium, C. cerastoides,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium, C. maximum,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium, C. davuricum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium,a C. arvense ssp. strictum,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium,a C. alpinum ssp. alpinum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium,b C. alpinum var. glabrum,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium,"c C. alpinum ssp. ""nova""",No,R,F,F,S,?,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium,d C. alpinum ssp. lanatum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium,a C. nigrescens var. laxum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium, C. arcticum,F,F,F,F,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Cerastium, C. beeringianum,F,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium, C. fischerianum,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium, C. regelii,F,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium, C. jenisejense,No,No,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium,a C. fontanum ssp. fontanum,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cerastium,b C. fontanum ssp. vulgare,No,No,**,*,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Sagina, S. saginoides,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sagina, S. procumbens,No,No,R,R,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Sagina, S. subulata,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Sagina,a S. nodosa ssp. borealis,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sagina, S. nivalis,R,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Sagina, S. caespitosa,No,No,S,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. verna (ssp. verna),No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. rubella,F,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. stricta,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. dawsonensis,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. rossii,F,F,F,F,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. elegans,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. macrocarpa,?,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. arctica,No,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. obtusiloba,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. yukonensis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. biflora,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Minuartia, M. groenlandica,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cherleria, C. dicranoides,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Honckenya,a H. peploides ssp. diffusa,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Honckenya,b H. peploides ssp. major,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Wilhelmsia, W. physodes,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arenaria, A. humifusa,No,R,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Arenaria, A. longipedunculata,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Arenaria, A. norvegica (ssp. norvegica),No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arenaria, A. pseudofrigida,?,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Eremogone, E. capillaris,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eremogone, E. formosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eremogone, E. polaris,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Eremogone, E. tschuktschorum,No,No,?,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Moehringia, M. lateriflora,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Moehringia, M. macrophylla,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Spergularia, S. salina,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Spergularia, S. canadensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Spergularia, S. rubra,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Silene, S. tatarica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. paucifolia,No,No,?,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. stenophylla,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. repens,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. polaris,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Silene, S. vulgaris (ssp. vulgaris),No,No,No,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Silene, S. uniflora (ssp. uniflora),No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. dioica,No,No,No,No,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Silene, S. linnaeana,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Silene, S. samojedora,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. villosula,No,No,?,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. wahlbergella,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. uralensis coll.,S,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene,a S. uralensis ssp. uralensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene,b S. uralensis ssp. arctica,S,F,F,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. violascens,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene,a S. soczavana var. macrosperma,No,No,?,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. involucrata coll.,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene,a S. involucrata ssp. involucrata,No,No,?,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene,b S. involucrata ssp. tenella,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene,c S. involucrata ssp. furcata,R,F,F,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. sorensenis,R,F,F,F,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. ostenfeldii,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Silene, S. acaulis,S,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viscaria, V. alpina,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gypsophila, G. uralensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gypsophila, G. sambukii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dianthus, D. repens,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dianthus, D. superbus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chenopodium, C. album,No,No,**,**,*,S,1,,NA,NA,NA,1,NA,NA,NA
+ Chenopodium, C. karoi,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chenopodium, C. jenissejense,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Chenopodium, C. capitatum,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Chenopodium, C. salinum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Chenopodium, C. rubrum,No,No,No,No,*,S,1,,NA,NA,NA,1,NA,NA,NA
+ Atriplex, A. prostrata (ssp. prostrata),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,1,NA
+ Atriplex, A. glabriuscula,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Atriplex,a A. longipes ssp. praecox,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Atriplex, A. lapponica,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Atriplex, A. gmelinii (ssp. gmelinii),No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Corispermum, C. crassifolium,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Corispermum, C. ochotense,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Monolepis, M. nuttalliana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Monolepis, M. asiatica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salicornia, S. rubra,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salicornia,a S. dolichostachya ssp. pojarkovae,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Suaeda, S. maritima,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Suaeda, S. calceoliformis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Claytonia, C. tuberosa,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Claytonia,a C. multiscapa ssp. czukczorum,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Claytonia, C. acutifolia,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Claytonia, C. eschscholtzii,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Claytonia, C. joanneana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Claytonia, C. arctica,No,No,R,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Claytonia, C. scammaniana,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Claytonia, C. sarmentosa,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Claytoniella, C. vassilievii,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Montia, M. fontana (ssp. fontana),No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Geocaulon, G. lividum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Paeonia, P. anomala,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhodiola, R. rosea,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhodiola, R. integrifolia,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhodiola, R. quadrifida,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hylotelephium, H. telephium,No,No,No,No,R,S,1,,NA,NA,1,NA,NA,NA,NA
+ Phedimus, P. kamtschaticus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Phedimus, P. middendorffianus,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Sedum, S. acre,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sedum, S. annuum,No,No,No,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sedum, S. villosum (ssp. villosum),No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Myriophyllum, M. alterniflorum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Myriophyllum, M. verticillatum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Myriophyllum, M. sibiricum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ribes,a R. spicatum ssp. lapponicum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ribes,b R. spicatum ssp. hispidulum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ribes, R. triste,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ribes, R. nigrum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ribes, R. dikuscha,No,No,No,No,*,R,1,,NA,1,NA,NA,NA,NA,NA
+ Ribes, R. glandulosum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ribes, R. hudsonianum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ribes, R. oxyacanthoides,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ribes, R. hirtellum,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Ribes, R. lacustre,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Boykinia, B. richardsonii,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Heuchera, H. glabra,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Mitella, M. nuda,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Leptarrhena, L. pyrolifolia,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Chrysosplenium, C. rimosum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Chrysosplenium, C. wrightii,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chrysosplenium,a C. alternifolium ssp. alternifolium,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Chrysosplenium,b C. alternifolium ssp. sibiricum,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chrysosplenium,c C. alternifolium ssp. arctomontanum,No,No,No,No,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Chrysosplenium, C. tetrandrum,No,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Chrysosplenium, C. rosendahlii,No,No,R,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. spicata,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. eschscholtzii,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga,a S. serpyllifolia ssp. serpyllifolia,No,R,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga,b S. serpyllifolia ssp. glutinosa,R,S,S,S,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. hirculus,S,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. setigera,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. platysepala,S,F,F,S,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga,a S. oppositifolia ssp. oppositifolia,F,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga,b S. oppositifolia ssp. smalliana,F,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. aizoides,No,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. nathorstii,No,No,R,No,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. paniculata,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. tricuspidata,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. bronchialis,No,No,R,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. stellerana,No,No,R,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. balandinii,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. caulescens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. omolojensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. anadyrensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. spinulosa,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. funstonii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. codyana,No,No,No,No,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. cherlerioides,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga,a S. cespitosa ssp. cespitosa,F,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga,b S. cespitosa ssp. monticola,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. rosacea,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. hypnoides,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,1,NA
+ Saxifraga, S. lactea,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. bracteata,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. hyperborea,F,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga,a S. rivularis ssp. rivularis,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga,b S. rivularis ssp. arctolitoralis,No,No,R,S,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. radiata,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. cernua,F,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saxifraga, S. svalbardensis,R,S,S,No,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. merkii (ssp. merkii),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. stellaris (ssp. stellaris),No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. ferruginea,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Micranthes, M. redofskyi,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. foliolosa,S,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. nudicaulis (ssp. nudicaulis),No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. punctata,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. davurica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. reflexa,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes,a M. nelsoniana ssp. nelsoniana,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes,b M. nelsoniana ssp. aestivalis,No,No,No,?,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes,c M. nelsoniana ssp. insularis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. porsildiana,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes,a M. lyallii ssp. hultenii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. razshivinii,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. calycina,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. unalaschensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. tenuis,S,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes, M. nivalis,S,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes,a M. hieraciifolia ssp. hieraciifolia,No,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Micranthes,b M. hieraciifolia ssp. longifolia,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Geranium, G. sylvaticum (ssp. sylvaticum),No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Geranium, G. krylovii,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Geranium, G. pratense,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Geranium, G. erianthum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium, E. palustre,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium, E. davuricum,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium, E. arcticum,R,S,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium, E. alsinifolium,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium,a E. hornemannii ssp. hornemannii,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium,b E. hornemannii ssp. behringianum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium, E. lactiflorum,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium, E. anagallidifolium,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium,a E. ciliatum ssp. ciliatum,No,No,No,No,R,S,1,,NA,NA,1,NA,NA,NA,NA
+ Epilobium,b E. ciliatum ssp. glandulosum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium, E. montanum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Epilobium, E. collinum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Chamerion,a C. angustifolium ssp. angustifolium,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chamerion,b C. angustifolium ssp. circumvagum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Chamerion, C. latifolium,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Circaea, C. alpina (ssp. alpina),No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Parnassia, P. palustris,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Parnassia, P. kotzebuei,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxalis, O. acetosella,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Euphorbia, E. discolor,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Euphorbia, E. esula,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Linum, L. catharticum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Linum, L. boreale,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Linum, L. taymirense,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Linum, L. komarovii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Linum,a L. lewisii ssp. lewisii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Linum,b L. lewisii ssp. lepagei,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. riviniana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. canina,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola,a V. rupestris ssp. rupestris,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola,b V. rupestris ssp. relicta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. adunca,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. conspersa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. langsdorffii,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. selkirkii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. pallens,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. renifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. palustris (ssp. palustris),No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola,a V. epipsila ssp. epipsila,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola,b V. epipsila ssp. repens,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola,a V. biflora ssp. biflora,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola,b V. biflora ssp. avatschensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Viola, V. uniflora,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Viola, V. tricolor,No,No,No,No,b,F,1,,1,NA,1,NA,NA,NA,NA
+ Populus, P. balsamifera,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Populus, P. suaveolens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Populus, P. tremula,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Populus, P. tremuloides,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chosenia, C. arbutifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,a S. triandra ssp. discolor,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. pentandra,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Salix, S. pseudopentandra,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Salix, S. serissima,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Salix,a S. exigua ssp. interior,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. reticulata,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. vestita,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. herbacea,No,R,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. polaris,R,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. nummularia,No,No,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,a S. glauca ssp. glauca,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,b S. glauca ssp. stipulifera,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,c S. glauca ssp. acutifolia,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,d S. glauca ssp. callicarpaea,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. reptans,R,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. brachycarpa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. niphoclada,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. arctica,No,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,a S. sphenophylla ssp. sphenophylla,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,b S. sphenophylla ssp. pseudotorulosa,No,No,No,No,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. ovalifolia,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. myrtilloides,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. pedicellaris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. fuscescens,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. phlebophylla,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,a S. rotundifolia ssp. rotundifolia,No,No,R,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,b S. rotundifolia ssp. dodgeana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. recurvigemmis,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. myrsinites,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. tschuktschorum,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,a S. berberifolia ssp. fimbriata,No,No,No,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,b S. berberifolia ssp. kamtschatica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. saxatilis,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. uva�ursi,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. chamissonis,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. arctophila,No,R,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. jenisseensis,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. cordata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. barclayi,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. hastata,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. myrtillifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. ballii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. pseudomonticola,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. pyrolifolia,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. lanata,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. calcicola,No,No,R,S,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. richardsonii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. barrattiana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. acutifolia,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. arbuscula,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. arbusculoides,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. boganidensis,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. phylicifolia,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,a S. pulchra var. pulchra,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix,b S. pulchra var. yukonensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. planifolia,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. pellita,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. tyrrellii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. rhamnifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. myrsinifolia,No,No,No,No,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Salix, S. caprea (ssp. caprea),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. bebbiana,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. krylovii,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. candida,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. lapponum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. alaxensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. viminalis,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. schwerinii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. burjatica,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. udensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. argyrocarpa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Salix, S. rosmarinifolia,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Elatine, E. triandra,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Myrica,a M. gale ssp. gale,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Myrica,b M. gale ssp. tomentosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alnus,a A. viridis ssp. crispa,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alnus,b A. viridis ssp. fruticosa,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alnus,c A. viridis ssp. sinuata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alnus,a A. incana ssp. incana,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Alnus,b A. incana ssp. kolaensis,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Alnus,d A. incana ssp. tenuifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alnus,e A. incana ssp. rugosa,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Betula, B. pendula,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Betula, B. platyphylla,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula, B. neoalaskana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula, B. papyrifera,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula, B. kenaica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula,a B. pubescens ssp. pubescens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula,b B. pubescens ssp. tortuosa,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula, B. minor,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula, B. fruticosa,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula, B. pumila,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula, B. glandulosa,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula, B. middendorffii,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula,a B. nana ssp. nana,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Betula,b B. nana ssp. exilis,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Polygala, P. serpyllifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Polygala, P. hybrida,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lupinus, L. arcticus (ssp. arcticus),No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lupinus, L. nootkatensis,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Melilotus, M. albus,No,No,No,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Trifolium, T. lupinaster,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,1,NA
+ Trifolium, T. repens,No,No,**,No,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Trifolium, T. hybridum (ssp. hybridum),No,No,**,**,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Trifolium, T. montanum,No,No,No,No,*,R,1,,NA,1,NA,NA,NA,NA,NA
+ Trifolium, T. pratense,No,No,No,No,*,F,1,,NA,1,NA,NA,NA,NA,NA
+ Caragana, C. jubata,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus,a A. frigidus ssp. frigidus,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus,b A. frigidus ssp. parviflorus,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. umbellatus,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. americanus,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Astragalus,a A. alpinus ssp. alpinus,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,1,NA
+ Astragalus,b A. alpinus var. arcticus,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus,c A. alpinus ssp. alaskanus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. norvegicus,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. sealei,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. eucosmus,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus,a A. robbinsii ssp. robbinsii,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. gorodkovii,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. tugarinovii,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. kolymensis,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. lepagei,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. aboriginum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. tolmaczevii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. richardsonii,No,No,S,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. williamsii,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Astragalus, A. vallicola,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. polaris,No,No,No,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. bodinii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. nutzotinensis,No,No,No,?,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. agrestis,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Astragalus, A. schelichovii,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. pseudadsurgens,No,No,?,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus,a A. inopinatus ssp. oreogenus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Astragalus, A. igoshinae,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,a O. deflexa ssp. deflexa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,b O. deflexa ssp. foliolosa,No,No,?,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,c O. deflexa ssp. retrorsa,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. nigrescens,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. czukotica,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. bryophila,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. kokrinensis,No,No,No,?,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. gorodkovii,No,No,R,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. arctobia,No,?,F,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. pumilio,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. sublongipes,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. revoluta,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. podocarpa,No,No,No,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. scammaniana,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. mertensiana,No,No,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,a O. adamsiana ssp. adamsiana,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,b O. adamsiana ssp. janensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,a O. vassilczenkoi ssp. vassilczenkoi,No,No,?,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,b O. vassilczenkoi ssp. substepposa,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. uschakovii,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. semiglobosa,No,No,?,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. ochotensis,No,No,No,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,a O. maydelliana ssp. maydelliana,No,No,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,b O. maydelliana ssp. melanocephala,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,a O. arctica ssp. arctica,No,R,F,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,b O. arctica ssp. taimyrensis,No,?,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. tichomirovii,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. terrae�novae,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,a O. leucantha ssp. subarctica,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,b O. leucantha ssp. tschukotcensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. katangensis,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,a O. sordida ssp. sordida,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,b O. sordida ssp. arctolenensis,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,c O. sordida ssp. schamurinii,No,No,R,R,?,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. beringensis,No,No,No,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. jordalii,No,No,No,No,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. varians,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. schmorgunoviae,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. sverdrupii,No,No,No,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. wrangelii,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. splendens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. bellii,No,No,S,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. tananensis,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. putoranica,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. uniflora,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. vasskovskyi,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. inopinata,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. kateninii,No,No,No,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. viscida,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. borealis,No,No,No,R,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. glutinosa,No,No,No,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis, O. hudsonica,No,No,R,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,a O. middendorffii ssp. middendorffii,No,No,R,F,F,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,b O. middendorffii ssp. orulganica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,c O. middendorffii ssp. submiddendorffii,No,No,R,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,d O. middendorffii ssp. coerulescens,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,e O. middendorffii ssp. schmidtii,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Oxytropis,f O. middendorffii ssp. anadyrensis,No,No,?,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Hedysarum,a H. boreale ssp. mackenziei,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hedysarum,b H. boreale ssp. dasycarpum,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hedysarum, H. americanum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hedysarum, H. vicioides,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hedysarum,a H. hedysaroides ssp. arcticum,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hedysarum,b H. hedysaroides ssp. tschuktschorum,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vicia, V. sepium,No,No,No,?,F,F,1,,NA,NA,1,NA,NA,NA,NA
+ Vicia, V. cracca,No,No,No,?,F,F,1,,NA,NA,1,NA,NA,NA,NA
+ Vicia, V. macrantha,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vicia, V. americana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lathyrus, L. pratensis,No,No,No,**,R,R,1,,NA,NA,NA,NA,1,NA,NA
+ Lathyrus,a L. palustris ssp. palustris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lathyrus,b L. palustris ssp. pilosus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lathyrus, L. japonicus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Spiraea, S. salicifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Spiraea, S. stevenii,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Spiraea, S. betulifolia,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Spiraea, S. media,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Spiraea, S. dahurica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Luetkea, L. pectinata,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Aruncus, A. dioicus s. lat.,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Filipendula, F. ulmaria,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rubus, R. chamaemorus,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rubus, R. arcticus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rubus, R. acaulis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rubus, R. stellatus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rubus, R. saxatilis,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rubus, R. pubescens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rubus, R. humulifolius,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rubus,a R. idaeus ssp. idaeus,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Rubus,b R. idaeus ssp. melanolasius,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rubus,c R. idaeus ssp. sachalinensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rosa,a R. acicularis ssp. acicularis,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rosa,b R. acicularis ssp. sayi,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rosa, R. majalis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sanguisorba, S. officinalis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sanguisorba, S. alpina,No,No,No,No,*,No,1,1,NA,1,NA,NA,NA,NA,NA
+ Sanguisorba,a S. canadensis ssp. latifolia,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas, D. octopetala,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas,a D. ajanensis ssp. beringensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas,a D. punctata ssp. punctata,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas,b D. punctata ssp. alaskensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas, D. incisa,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas, D. crenulata,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas,a D. integrifolia ssp. integrifolia,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas,b D. integrifolia ssp. sylvatica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas, D. grandis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Dryas, D. drummondii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Geum, G. rivale,No,No,?,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Geum,a G. aleppicum ssp. strictum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Geum,a G. macrophyllum ssp. perincisum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Geum, G. calthifolium,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Geum, G. rossii,No,R,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Geum, G. glaciale,R,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. biflora,No,No,?,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. pulchella,S,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. bimundorum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. tergemina,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Potentilla, P. anachoretica,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. lyngei,No,No,S,S,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. wrangelii,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. pensylvanica,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Potentilla, P. bipinnatifida,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. nudicaulis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. litoralis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. sp. (aff. pensylvanica),No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. rubricaulis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. pedersenii,No,S,F,F,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. insularis,No,?,S,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. uschakovii,No,No,R,S,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. villosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. villosula,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. uniflora,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. vulcanicola,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. subvahliana,No,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. vahliana,No,S,S,S,?,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. gorodkovii,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. subgorodkovii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,a P. crebridens ssp. hemicryophila,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. nivea,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,a P. arenosa ssp. arenosa,No,No,R,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,b P. arenosa ssp. chamissonis,No,?,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. neglecta,No,No,No,No,*,R,1,,NA,NA,NA,1,NA,NA,NA
+ Potentilla, P. intermedia,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Potentilla, P. norvegica,No,No,No,No,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Potentilla, P. thuringiaca,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Potentilla, P. anadyrensis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. stipularis,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. rubella,No,No,R,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. glaucophylla,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. elegans,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. crantzii,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,a P. gelida ssp. boreo�asiatica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,a P. hyparctica ssp. hyparctica,S,F,F,F,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,b P. hyparctica ssp. elatior,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,c P. hyparctica ssp. nivicola,No,?,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. pulviniformis,No,No,R,S,S,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. nana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. fragiformis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla, P. erecta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,a P. anserina ssp. anserina,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,b P. anserina ssp. yukonensis,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Potentilla,c P. anserina ssp. egedii,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Potentilla,d P. anserina ssp. pacifica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dasiphora,a D. fruticosa ssp. floribunda,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Comarum, C. palustre,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sibbaldiopsis, S. tridentata,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sibbaldia, S. procumbens,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chamaerhodos, C. grandiflora,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Fragaria,a F. vesca ssp. vesca,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Fragaria,b F. vesca ssp. americana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Fragaria,a F. virginiana ssp. virginiana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Fragaria,b F. virginiana ssp. glauca,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. alpina,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. faeroeensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. monticola,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. acutiloba,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Alchemilla, A. subcrenata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,1,NA
+ Alchemilla,a A. filicaulis ssp. filicaulis,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,1,NA
+ Alchemilla,b A. filicaulis ssp. vestita,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. semispoliata,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. glomerulans,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. borealis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. obtusiformis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. baltica,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Alchemilla, A. wichurae,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. murbeckiana,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. glabra,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. cunctatrix,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. glabriformis,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Alchemilla, A. norvegica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sorbus, S. scopulina,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Sorbus,a S. aucuparia ssp. aucuparia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sorbus,b S. aucuparia ssp. glabrata,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Sorbus,c S. aucuparia ssp. sibirica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sorbus, S. anadyrensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sorbus, S. groenlandica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Sorbus, S. sambucifolia,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Amelanchier, A. bartramiana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cotoneaster, C. uniflorus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cotoneaster, C. niger,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Prunus,a P. padus ssp. padus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Shepherdia, S. canadensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Urtica,a U. dioica ssp. dioica,No,No,**,*,R,F,1,,NA,NA,NA,NA,1,NA,NA
+ Urtica,b U. dioica ssp. sondenii,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Urtica, U. gracilis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Urtica, U. urens,No,No,No,No,R,S,1,,NA,NA,NA,NA,1,NA,NA
+ Descurainia, D. sophia,No,No,No,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Descurainia, D. sophioides,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Descurainia, D. incana,No,No,No,No,*,R,1,,NA,1,NA,NA,NA,NA,NA
+ Smelowskia, S. alba,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Smelowskia, S. bifurcata,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Smelowskia, S. media,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Smelowskia, S. porsildii,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Smelowskia, S. borealis,No,No,No,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Smelowskia, S. pyriformis,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Smelowskia, S. parryoides,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Smelowskia, S. jacutica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Smelowskia, S. czukotica,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Dontostemon, D. pectinatus,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Aphragmus, A. eschscholtzianus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Arabidopsis, A. arenosa (ssp. arenosa),No,No,No,**,*,S,1,,NA,NA,NA,1,NA,NA,NA
+ Arabidopsis, A. kamtschatica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arabidopsis,a A. petraea ssp. petraea,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arabidopsis,b A. petraea ssp. septentrionalis,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arabidopsis,c A. petraea ssp. umbrosa,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arabidopsis, A. arenicola,No,R,F,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Transberingia, T. bursifolia,No,R,R,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Eutrema, E. edwardsii,S,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Thellungiella, T. salsuginea,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Braya, B. linearis,No,No,R,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Braya, B. siliquosa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Braya,a B. humilis ssp. humilis,?,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Braya,b B. humilis ssp. ellesmerensis,No,R,R,No,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Braya,a B. glabella ssp. glabella,No,No,R,R,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Braya,b B. glabella ssp. prostrata,No,R,R,No,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Braya,c B. glabella ssp. purpurascens,R,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Braya,a B. thorild�wulffii ssp. thorild�wulffii,S,S,S,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Braya,b B. thorild�wulffii ssp. glabrata,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Braya, B. pilosa,No,?,R,R,R,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Braya, B. rosea,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erysimum, E. pallasii,R,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Erysimum, E. coarctatum,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erysimum, E. strictum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erysimum, E. marschallianum,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Erysimum, E. altum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Parrya,a P. nudicaulis ssp. nudicaulis,R,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Parrya,b P. nudicaulis ssp. interior,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Parrya, P. nauruaq,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Parrya, P. arctica,S,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Barbarea, B. vulgaris,No,No,*,*,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Barbarea, B. orthoceras,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Barbarea, B. stricta,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Rorippa, R. amphibia,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rorippa, R. sylvestris (ssp. sylvestris),No,No,**,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Rorippa,a R. islandica ssp. islandica,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rorippa,b R. islandica ssp. dogadovae,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Rorippa, R. palustris,No,No,No,?,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Rorippa, R. barbareifolia,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Rorippa, R. calycina,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Armoracia, A. sisymbrioides,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Isatis,a I. tinctoria ssp. jacutensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. trifida,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. macrophylla,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine,a C. pratensis ssp. angustifolia,F,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. amara,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Cardamine, C. pensylvanica,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Cardamine, C. umbellata,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. prorepens,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. bellidifolia (ssp. bellidifolia),F,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. digitata,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. microphylla,No,No,R,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. blaisdellii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. purpurea,No,No,R,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. sphenophylla,No,No,No,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Cardamine, C. victoris,No,No,No,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Arabis, A. alpina,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arabis, A. hirsuta,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Arabis, A. pycnocarpa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Boechera, B. drummondii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Boechera, B. divaricarpa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Boechera, B. holboellii (ssp. holboellii),No,No,?,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Alyssum, A. obovatum,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lesquerella, L. arctica,R,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lesquerella, L. calderi,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. pauciflora,F,F,F,F,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. micropetala,F,F,F,F,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. simmonsii,F,F,F,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. stenopetala,No,No,No,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. tschuktschorum,No,No,R,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. alpina,S,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. glacialis,No,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. oxycarpa,S,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba," D. ""pseudo�oxycarpa""",No,R,S,S,R,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. macounii,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. eschscholtzii,No,No,?,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. pilosa,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. corymbosa,F,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. oligosperma,No,No,No,R,No,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. fladnizensis,No,?,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. subcapitata,F,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. lactea,F,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. taimyrensis,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. nivalis,S,F,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. chamissonis,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. lonchocarpa (var. lonchocarpa),No,No,R,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. palanderiana,No,No,R,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. cinerea,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba,a D. arctica ssp. arctica,F,F,F,F,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Draba,b D. arctica ssp. ostenfeldii,S,S,?,No,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. oblongata,F,F,F,F,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. arctogena,S,S,S,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. parvisiliquosa,No,No,R,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. norvegica,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. glabella,No,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. juvenilis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. incana,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. cana,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. borealis,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. sibirica,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. nemorosa,No,No,No,No,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Draba, D. verna,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,1,NA
+ Draba, D. aurea,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. incerta,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. crassifolia,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Draba, D. stenoloba,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Nesodraba, N. grandis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cochlearia, C. officinalis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cochlearia, C. groenlandica,F,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cochlearia,a C. arctica ssp. arctica,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cochlearia,b C. arctica ssp. oblongifolia,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Thlaspi, T. arvense,No,No,**,**,*,R,1,,NA,NA,NA,1,NA,NA,NA
+ Noccaea, N. arctica,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Noccaea, N. camtschatica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Capsella, C. bursa�pastoris,No,No,**,*,*,S,1,,NA,NA,NA,NA,1,NA,NA
+ Brassica,a B. rapa ssp. campestris,No,No,**,**,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Subularia,a S. aquatica ssp. aquatica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Subularia,b S. aquatica ssp. americana,No,No,?,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cakile,a C. maritima ssp. islandica,No,No,R,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cakile, C. edentula (ssp. edentula),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chamaepericlymenum, C. suecicum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chamaepericlymenum, C. canadense,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chamaepericlymenum, C. unalaschkense,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Swida, S. sericea,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Impatiens, I. noli�tangere,No,No,No,No,R,S,1,,NA,NA,1,NA,NA,NA,NA
+ Phlox, P. sibirica,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Phlox, P. alaskensis,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Phlox, P. hoodii,No,No,R,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Polemonium, P. caeruleum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Polemonium, P. acutiflorum,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Polemonium, P. boreale,No,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Polemonium,a P. pulcherrimum ssp. pulcherrimum,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Polemonium,b P. pulcherrimum ssp. lindleyi,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Primula, P. elatior (ssp. elatior),No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Primula,a P. nutans ssp. nutans,No,No,?,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Primula,b P. nutans ssp. finmarchia,No,No,No,R,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Primula, P. stricta,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Primula, P. incana,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Primula, P. mistassinica,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Primula, P. laurentiana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Primula, P. egaliksensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Primula, P. anvilensis,No,No,No,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Primula, P. borealis,No,No,?,S,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Primula, P. tschuktschorum,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Primula, P. pumila,No,No,?,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Primula,a P. cuneifolia ssp. saxifragifolia,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Dodecatheon, D. frigidum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cortusa,a C. matthioli ssp. matthioli,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cortusa,b C. matthioli ssp. altaica,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Cortusa,c C. matthioli ssp. sibirica,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Androsace,a A. chamaejasme ssp. andersonii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Androsace,b A. chamaejasme ssp. capitata,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Androsace, A. triflora,R,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Androsace, A. gorodkovii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Androsace, A. semiperennis,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Androsace, A. septentrionalis,No,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Androsace, A. filiformis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Douglasia, D. ochotensis,No,No,R,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Douglasia, D. arctica,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Douglasia, D. beringensis,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Douglasia, D. gormanii,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Douglasia, D. alaskana,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Glaux, G. maritima,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trientalis,a T. europaea ssp. europaea,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trientalis,b T. europaea ssp. arctica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Trientalis, T. borealis (ssp. borealis),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lysimachia, L. thyrsiflora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Diapensia,a D. lapponica ssp. lapponica,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Diapensia,b D. lapponica ssp. obovata,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhododendron, R. aureum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhododendron,a R. lapponicum ssp. lapponicum,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhododendron,b R. lapponicum ssp. parvifolium,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhododendron, R. adamsii,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhododendron, R. groenlandicum,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhododendron,a R. tomentosum ssp. tomentosum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhododendron,b R. tomentosum ssp. decumbens,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Therorhodion, T. glandulosum,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Kalmia, K. polifolia (ssp. polifolia),No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Kalmia, K. procumbens,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Phyllodoce, P. caerulea,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Phyllodoce, P. aleutica (ssp. aleutica),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Calluna, C. vulgaris,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cassiope, C. tetragona (ssp. tetragona),No,?,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cassiope, C. ericoides,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cassiope, C. lycopodioides,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Harrimanella, H. hypnoides,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Harrimanella, H. stelleriana,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Andromeda, A. polifolia,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Andromeda, A. glaucophylla,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Chamaedaphne, C. calyculata,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctostaphylos, A. uva�ursi,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctous, A. alpina,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctous, A. rubra,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gaulteria, G. hispidula,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium, V. myrtillus,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium, V. ovalifolium,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium, V. cespitosum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium, V. myrtilloides,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium,a V. uliginosum ssp. uliginosum,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium,b V. uliginosum ssp. microphyllum,No,?,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium,c V. uliginosum ssp. occidentale,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Vaccinium,d V. uliginosum ssp. pedris,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium,e V. uliginosum ssp. vulcanorum,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium,a V. vitis�idaea ssp. vitis�idaea,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Vaccinium,b V. vitis�idaea ssp. minus,No,?,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxycoccus,a O. palustris ssp. palustris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxycoccus,b O. palustris ssp. microphyllus,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Oxycoccus, O. microcarpus,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Empetrum, E. nigrum,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pyrola,a P. grandiflora ssp. grandiflora,No,No,S,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pyrola,b P. grandiflora ssp. norvegica,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pyrola,a P. asarifolia ssp. incarnata,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pyrola,a P. minor var. conferta,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pyrola, P. chlorantha,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Orthilia,a O. secunda ssp. secunda,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Orthilia,b O. secunda ssp. obtusata,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Moneses, M. uniflora,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium, G. kamtschaticum,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium, G. boreale,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium, G. triflorum,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium, G. uliginosum,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium, G. palustre,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium,a G. trifidum ssp. trifidum,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium,b G. trifidum ssp. columbianum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium, G. labradoricum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium, G. verum,No,No,No,?,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Galium,a G. mollugo ssp. erectum,No,No,No,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Galium, G. normanii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Galium,a G. spurium ssp. vaillantii,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Galium, G. aparine,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,1,NA
+ Gentiana, G. algida,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentiana, G. glauca,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentiana, G. nivalis,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentiana, G. verna,No,No,No,R,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentiana, G. prostrata,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianella, G. campestris,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianella,a G. amarella ssp. amarella,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianella,b G. amarella ssp. septentrionalis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianella,c G. amarella ssp. acuta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianella,a G. propinqua ssp. propinqua,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianella,b G. propinqua ssp. arctophila,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianella, G. auriculata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianella, G. aurea,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Comastoma, C. tenellum,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianopsis, G. detonsa,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianopsis, G. nesophila,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianopsis,a G. barbata ssp. barbata,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Gentianopsis,b G. barbata ssp. raupii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lomatogonium,a L. rotatum ssp. rotatum,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lomatogonium,b L. rotatum ssp. tenuifolium,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lomatogonium, L. carinthiacum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Swertia, S. obtusa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ajuga, A. pyramidalis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Scutellaria,b S. galericulata ssp. pubescens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Glechoma, G. hederacea,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Dracocephalum, D. palmatum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Dracocephalum, D. parviflorum,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Prunella,a P. vulgaris ssp. vulgaris,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Prunella,b P. vulgaris ssp. lanceolata,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Galeopsis, G. bifida,No,No,No,No,*,F,1,,NA,NA,NA,1,NA,NA,NA
+ Galeopsis, G. tetrahit,No,No,No,No,R,S,1,,NA,NA,1,NA,NA,NA,NA
+ Lamium, L. album (ssp. album),No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Lamium, L. purpureum,No,No,No,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Stachys,a S. palustris ssp. pilosa,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Lycopus, L. uniflorus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Mentha, M. aquatica,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Mentha, M. arvensis,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Mentha, M. canadensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thymus,a T. praecox ssp. arcticus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thymus,a T. serpyllum ssp. tanaensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Thymus, T. pauciflorus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Thymus, T. reverdattoanus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thymus, T. extremus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thymus, T. oxyodontus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Thymus, T. karavaevi,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Thymus, T. mongolicus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Thymus, T. sibiricus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Mimulus, M. guttatus,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Limosella, L. aquatica,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Linaria,a L. vulgaris ssp. vulgaris,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Linaria,b L. vulgaris ssp. acutiloba,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lagotis,a L. glauca ssp. glauca,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lagotis,b L. glauca ssp. stelleri,?,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Lagotis,c L. glauca ssp. minor,No,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica, V. longifolia,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica, V. incana (ssp. incana),No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica, V. spicata (ssp. spicata),No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica,a V. alpina ssp. alpina,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica,b V. alpina ssp. pumila,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica, V. nutans,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica, V. wormskjoldii,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica, V. fruticans (ssp. fruticans),No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica,a V. serpyllifolia ssp. serpyllifolia,No,No,No,No,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Veronica,b V. serpyllifolia ssp. humifusa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica, V. chamaedrys,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Veronica, V. officinalis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,1,NA
+ Veronica, V. scutellata,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Veronica, V. alaskensis,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Plantago, P. major (ssp. major),No,No,**,*,*,S,1,,NA,NA,NA,1,NA,NA,NA
+ Plantago, P. depressa,No,No,No,*,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Plantago, P. media,No,No,No,No,b,S,1,,1,NA,1,NA,NA,NA,NA
+ Plantago, P. lanceolata,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,1,NA
+ Plantago,a P. canescens ssp. canescens,No,No,No,No,*,F,1,,NA,1,NA,NA,NA,NA,NA
+ Plantago,b P. canescens ssp. jurtzevii,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Plantago,c P. canescens ssp. richardsonii,No,No,No,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Plantago, P. eriopoda,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Plantago,a P. maritima ssp. borealis,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Littorella, L. uniflora,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hippuris, H. vulgaris,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hippuris, H. lanceolata,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hippuris, H. tetraphylla,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Callitriche, C. hermaphroditica,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Callitriche, C. cophocarpa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Callitriche, C. palustris,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Callitriche, C. anceps,No,No,R,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Callitriche, C. hamulata,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Callitriche, C. stagnalis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Boschniakia, Boschniakia rossica,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. hyparctica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. septentrionalis,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. lapponica,No,No,No,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. pavlovii,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. caudata,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. annua,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Castilleja, C. yukonis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. hyperborea,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. pseudohyperborea,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. rubra,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. elegans,No,No,R,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja, C. raupii,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja,a C. arctica ssp. arctica,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Castilleja,b C. arctica ssp. vorkutensis,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Melampyrum, M. sylvaticum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Melampyrum, M. pratense,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. wettsteinii,No,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. vinacea,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. mollis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. subarctica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. disjuncta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. stricta,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. arctica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. frigida,No,No,No,X,X,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. hudsoniana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. hyperborea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Euphrasia, E. parviflora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,1,NA
+ Euphrasia, E. salisburgensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Bartsia, B. alpina,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Rhinanthus, R. minor,No,No,No,R,F,F,1,,NA,NA,1,NA,NA,NA,NA
+ Pedicularis, P. capitata,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. sceptrum�carolinum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. tristis,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. dasyantha,No,R,F,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. alopecuroides,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. lanata,?,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. hirsuta,R,F,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. langsdorffii,?,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. flammea,No,R,F,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. oederi,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. albolabiata,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. novaiae�zemliae,No,R,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. arctoeuropaea,No,?,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. interior,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. pacifica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. villosa,No,No,R,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. labradorica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. compacta,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. lapponica,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. adunca,No,No,No,No,*,R,1,,NA,1,NA,NA,NA,NA,NA
+ Pedicularis,a P. palustris ssp. borealis,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis,b P. palustris ssp. karoi,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. parviflora,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. pennellii,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. hyperborea,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. groenlandica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. verticillata,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. amoena,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pedicularis, P. eriopoda,No,No,No,No,R,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Pinguicula, P. vulgaris (ssp. vulgaris),No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pinguicula, P. alpina,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pinguicula, P. spathulata,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pinguicula, P. algida,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pinguicula, P. villosa,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Utricularia,a U. vulgaris ssp. vulgaris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Utricularia,b U. vulgaris ssp. macrorhiza,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Utricularia, U. intermedia,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Utricularia, U. ochroleuca,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Utricularia, U. minor,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eritrichium, E. villosum,R,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eritrichium, E. aretioides,No,No,?,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Eritrichium, E. tschuktschorum,No,No,?,F,F,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Eritrichium,a E. sericeum ssp. sericeum,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Eritrichium,b E. sericeum ssp. arctisibiricum,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Eritrichium, E. splendens,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Cryptantha, C. sp.,No,No,No,No,R,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Amsinckia, A. lycopsoides,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Symphytum, S. asperum,No,No,No,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Mertensia,a M. maritima ssp. maritima,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Mertensia,c M. maritima ssp. tenella,No,R,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Mertensia, M. drummondii,No,No,R,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Mertensia, M. paniculata (var. paniculata),No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Mertensia, M. eastwoodae,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Mertensia, M. pubescens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Myosotis, M. scorpioides,No,No,No,No,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Myosotis,a M. laxa ssp. cespitosa,No,No,No,No,R,F,1,,NA,1,NA,NA,NA,NA,NA
+ Myosotis, M. decumbens (ssp. decumbens),No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Myosotis, M. pseudovariabilis,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Myosotis, M. arvensis,No,No,**,**,R,S,1,,NA,NA,NA,NA,1,NA,NA
+ Myosotis,a M. alpestris ssp. asiatica,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Myosotis, M. stricta,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Asperugo, A. procumbens,No,No,No,*,*,F,1,,NA,NA,NA,1,NA,NA,NA
+ Lappula, L. occidentalis,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Lappula, L. myosotis,No,No,**,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Campanula, C. turczaninovii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Campanula, C. lasiocarpa (ssp. lasiocarpa),No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Campanula, C. rotundifolia,No,No,R,F,F,F,1,,NA,NA,1,NA,NA,NA,NA
+ Campanula,b C. rotundifolia ssp. langsdorffiana,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Campanula, C. uniflora,No,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Campanula, C. glomerata,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Campanula, C. aurita,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Lobelia, L. kalmii,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Menyanthes, M. trifoliata,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Solidago,a S. virgaurea ssp. virgaurea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Solidago,b S. virgaurea ssp. lapponica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Solidago, S. dahurica,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Solidago,a S. multiradiata ssp. multiradiata,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Solidago,b S. multiradiata ssp. arctica,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Solidago, S. simplex,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Solidago, S. macrophylla,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Solidago, S. uliginosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Solidago, S. lepida,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Euthamia, E. graminifolia,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Aster,a A. alpinus ssp. vierhapperi,No,No,?,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eurybia, E. sibirica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Eurybia, E. radula,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Symphyotrichum, S. pygmaeum,No,No,No,R,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Symphyotrichum, S. yukonense,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Symphyotrichum,a S. ericoides var. pansus,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Symphyotrichum, S. falcatum,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Symphyotrichum, S. spathulatum,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Symphyotrichum, S. lanceolatum,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Symphyotrichum, S. boreale,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Symphyotrichum, S. puniceum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Symphyotrichum, S. ciliolatum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tripolium,a T. pannonicum ssp. tripolium,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. compositus,?,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. purpuratus,No,No,No,?,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. denalii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. silenifolius,No,No,No,R,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. hyperboreus,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. koraginensis,No,No,S,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. porsildii,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. muirii,No,No,S,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. yukonensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. humilis,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. uniflorus,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. eriocephalus,?,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. eriocalyx,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. alpiniformis,No,No,No,R,F,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. borealis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron,a E. acris ssp. acris,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron,b E. acris ssp. politus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron,c E. acris ssp. kamtschaticus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. lonchophyllus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. elatus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. peregrinus (ssp. peregrinus),No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Erigeron,a E. glabellus ssp. pubescens,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. ochroleucus,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Erigeron, E. hyssopifolius,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria, A. villifera,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria, A. pulcherrima,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria, A. neglecta,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria, A. dioica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria, A. microphylla,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,a A. rosea ssp. rosea,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,b A. rosea ssp. confinis,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Antennaria,c A. rosea ssp. pulvinata,No,No,?,S,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,a A. media ssp. compacta,No,R,S,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,b A. media ssp. fusca,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,a A. alpina ssp. alpina,No,No,?,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,b A. alpina ssp. canescens,No,No,?,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,c A. alpina ssp. porsildii,No,No,R,S,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,a A. friesiana ssp. friesiana,?,R,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,b A. friesiana ssp. alaskana,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,c A. friesiana ssp. neoalaskana,No,No,No,?,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,a A. monocephala ssp. monocephala,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Antennaria,b A. monocephala ssp. angustata,No,No,?,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Gnaphalium, G. uliginosum,No,No,No,R,R,S,1,,NA,NA,NA,NA,NA,1,NA
+ Omalotheca, O. sylvatica,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Omalotheca, O. norvegica,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Omalotheca, O. supina,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Leontopodium, L. kurilense,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Arnica,a A. angustifolia ssp. angustifolia,No,?,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arnica,b A. angustifolia ssp. tomentosa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Arnica, A. lonchophylla (ssp. lonchophylla),No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arnica,a A. griscomii ssp. frigida,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arnica, A. unalaschkensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Arnica, A. lessingii,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arnica,a A. chamissonis ssp. chamissonis,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Arnica,b A. chamissonis ssp. foliosa,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Bidens, B. hyperborea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Achillea,a A. millefolium ssp. millefolium,No,No,**,**,F,F,1,,NA,NA,NA,NA,1,NA,NA
+ Achillea,b A. millefolium ssp. borealis,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Achillea,c A. millefolium ssp. lanulosa,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Achillea, A. ptarmica,No,No,No,No,*,F,1,,NA,1,NA,NA,NA,NA,NA
+ Achillea, A. salicifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Achillea,a A. alpina ssp. camtschatica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Achillea,b A. alpina ssp. multiflora,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Tripleurospermum,a T. maritimum ssp. subpolare,No,No,No,No,S,F,1,,NA,NA,NA,NA,1,NA,NA
+ Tripleurospermum,b T. maritimum ssp. phaeocephalum,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,1,NA
+ Tripleurospermum, T. tetragonospermum,No,No,No,No,*,R,1,,NA,1,NA,NA,NA,NA,NA
+ Tripleurospermum, T. inodorum,No,No,No,No,*,*,1,,NA,NA,NA,NA,NA,NA,NA
+ Matricaria, M. recutita,No,No,No,No,*,*,1,,NA,NA,NA,1,NA,NA,NA
+ Lepidotheca, L. suaveolens,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Chrysanthemum, C. mongolicum,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctanthemum,a A. arcticum ssp. arcticum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Arctanthemum,b A. arcticum ssp. polare,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hulteniella, H. integrifolia,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Leucanthemum, L. vulgare,No,No,No,No,*,F,1,,NA,NA,NA,1,NA,NA,NA
+ Tanacetum,a T. vulgare ssp. vulgare,No,No,No,No,*,F,1,,NA,NA,NA,1,NA,NA,NA
+ Tanacetum,b T. vulgare ssp. boreale,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tanacetum, T. bipinnatum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tanacetum, T. huronense,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. tanacetifolia,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. arctisibirica,No,No,No,R,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,a A. norvegica var. uralensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. subarctica,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,a A. arctica ssp. arctica,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,b A. arctica ssp. ehrendorferi,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,c A. arctica ssp. beringensis,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. comata,No,No,R,F,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. furcata,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. globularia,No,No,No,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,a A. globularia var. lutea,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. flava,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,a A. gmelinii ssp. scheludjakoviae,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Artemisia, A. frigida,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. sericea,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. hyperborea,No,No,?,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,a A. lagopus ssp. abbreviata,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,b A. lagopus ssp. triniana,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. glomerata,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. senjavinensis,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,a A. kruhsiana ssp. kruhsiana,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,b A. krushiana ssp. alaskana,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,c A. kruhsiana ssp. condensata,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. samojedorum,No,No,No,No,R,?,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. jacutica,No,No,No,*,No,S,1,,NA,1,NA,NA,NA,NA,NA
+ Artemisia,a A. tilesii ssp. tilesii,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,b A. tilesii ssp. elatior,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. vulgaris,No,No,No,No,*,S,1,,NA,NA,NA,1,NA,NA,NA
+ Artemisia, A. leucophylla,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. dracunculus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia, A. canadensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,1,NA
+ Artemisia,a A. borealis ssp. borealis,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Artemisia,b A. borealis ssp. richardsoniana,No,No,R,S,S,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Tussilago, T. farfara,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Petasites, P. sagittatus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Petasites, P. x vitifolius,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Petasites,a P. frigidus ssp. frigidus,No,?,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Petasites,b P. frigidus ssp. nivalis,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Petasites,c P. frigidus ssp. palmatus,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Petasites,d P. frigidus ssp. arcticus,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Petasites, P. radiatus,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Endocellion, E. glaciale,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Endocellion, E. sibiricum,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Parasenecio, P. hastatus,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Senecio, S. vulgaris,No,No,No,No,*,S,1,,NA,NA,NA,1,NA,NA,NA
+ Senecio, S. nemorensis (ssp. nemorensis),No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Senecio, S. pseudoarnica,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Senecio, S. lugens,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Senecio, S. ambraceus,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Packera, P. heterophylla,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Packera, P. ogotorukensis,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Packera,a P. hyperborealis ssp. hyperborealis,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Packera,b P. hyperborealis ssp. wrangelica,No,No,R,R,No,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Packera, P. pauciflora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Packera, P. paupercula,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris,a T. palustris ssp. congesta,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris, T. jacutica,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris, T. integrifolia,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris, T. tundricola,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris, T. lindstroemii,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris, T. atropurpurea,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris, T. frigida,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris, T. subfrigida,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris, T. kjellmanii,No,No,No,S,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Tephroseris, T. yukonensis,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ligularia, L. sibirica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea, S. schanginiana,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea, S. nuda,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea, S. oxyodonta,No,No,No,?,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea, S. parviflora,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea, S. alpina,No,No,R,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea,a S. angustifolia ssp. angustifolia,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea,b S. angustifolia var. viscida,No,No,No,R,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea,c S. angustifolia ssp. yukonensis,No,No,R,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea, S. tilesii,No,S,F,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Saussurea, S. triangulata,No,No,No,No,b,R,1,,1,NA,NA,NA,NA,NA,NA
+ Carduus, C. crispus,No,No,No,No,*,R,1,,NA,NA,NA,1,NA,NA,NA
+ Cirsium, C. heterophyllum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cirsium, C. helenioides,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cirsium,a C. arvense ssp. arvense,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Cirsium,b C. arvense ssp. setosum,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Cirsium, C. drummondii,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Cirsium, Centaurea,,,,,,,NA,,NA,NA,NA,NA,NA,NA,8635
+ Cirsium, C. montana,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Scorzoneroides,a S. autumnalis ssp. autumnalis,No,No,No,No,*,F,1,,NA,NA,NA,1,NA,NA,NA
+ Scorzoneroides,b S. autumnalis ssp. taraxaci,No,No,No,?,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sonchus,a S. arvensis ssp. arvensis,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,1,NA
+ Sonchus,b S. arvensis ssp. uliginosus,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Lactuca, L. sibirica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lactuca,b L. tatarica ssp. pulchella,No,No,No,No,b,S,1,,1,NA,NA,NA,NA,NA,NA
+ Cicerbita, C. alpina,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Agoseris,a A. glauca var. dasycephala,No,No,No,No,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. holmenianum,?,S,S,S,R,No,1,1,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. phymatocarpum agg.,R,F,F,F,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. soczavae agg.,No,No,R,F,F,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. alaskanum agg.,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. arcticum agg.,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. glabrum agg.,No,R,S,S,S,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. ceratophorum agg.,No,R,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. macroceras agg.,No,R,R,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. lacerum agg.,?,S,F,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. lateritium agg.,No,No,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. albescens agg.,No,No,R,R,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum," Not assigned to aggregate: * T. longicorne (H-L, N) (R S F) / perfiljevii (D-G) (S F F)",No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. praestans agg.,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. croceum agg.,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. islandicum agg.,No,No,R,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. spectabile agg.,No,No,R,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. boreum agg.,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. falcatum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. jacuticum,No,No,No,No,R,?,1,?,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. crassipes agg.,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Taraxacum, T. ruderalia agg.,No,No,**,*,R,F,1,,NA,NA,NA,NA,1,NA,NA
+ Crepis, C. sibirica,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Crepis, C. paludosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Crepis,a C. chrysantha ssp. minor,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Crepis,a C. tectorum ssp. tectorum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,1,NA
+ Crepis,b C. tectorum ssp. nigrescens,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Crepis,c C. tectorum ssp. pumila,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Crepis, C. multicaulis,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Askellia, A. nana,R,R,S,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Askellia, A. elegans,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Stenotheca, S. tristis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pilosella, P. peleteriana,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pilosella, P. cymosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pilosella, P. onegensis,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+Hieracium, Hieracium macranthelum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pilosella, P. islandica,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Pilosella, P. aurantiaca,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Hieracium, H. murorum agg.,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. bifidum agg.,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. fuscocinereum agg.,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. vulgatum agg.,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. fasciculare agg.,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. caesium agg.,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. subramosum agg.,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. diaphanum agg.,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. diaphanoides agg.,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. schmidtii agg.,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. sommerfeltii agg.,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. saxifragum agg.,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. alatum agg.,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. alpinum agg.,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. nigrescens agg.,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. atratum agg.,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. rohacsense agg.,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. prenanthoides agg.,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. epimedium agg.,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. dovrense agg.,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. plicatum agg.,No,No,No,R,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. truncatum agg.,No,No,No,No,R,R,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. inuloides agg.,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. umbellatum agg.,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Hieracium, H. laevigatum agg.,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Adoxa, A. moschatellina,No,No,?,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Sambucus,a S. racemosa ssp. pubens,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Viburnum, V. edule,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lonicera, L. involucrata,No,No,No,No,b,F,1,,1,NA,NA,NA,NA,NA,NA
+ Lonicera,a L. caerulea ssp. altaica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lonicera,b L. caerulea ssp. pallasii,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Lonicera,c L. caerulea ssp. villosa,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Linnaea,a L. borealis ssp. borealis,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Linnaea,b L. borealis ssp. americana,No,No,?,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Valeriana, V. capitata,No,No,R,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Valeriana,a V. dioica ssp. sylvatica,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Valeriana, V. officinalis,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Valeriana,a V. sambucifolia ssp. procurrens,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Valeriana, V. wolgensis,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Valeriana, V. transjenisensis,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Chaerophyllum, C. prescottii,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Sphallerocarpus, S. gracilis,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Anthriscus,a A. sylvestris ssp. sylvestris,No,No,No,No,S,F,1,,NA,NA,1,NA,NA,NA,NA
+ Anthriscus,b A. sylvestris ssp. aemula,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Myrrhis, M. odorata,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Pleurospermum,a P. austriacum ssp. uralense,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Bupleurum, B. triradiatum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Bupleurum, B. arcticum,No,No,No,S,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Bupleurum, B. americanum,No,No,No,S,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cicuta, C. virosa,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cicuta, C. bulbifera,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cicuta, C. douglasii,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Sium, S. suave,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Carum, C. carvi,No,No,No,No,*,F,1,,NA,NA,NA,1,NA,NA,NA
+ Pimpinella, P. saxifraga,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Aegopodium, A. alpestre,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Aegopodium, A. podagraria,No,No,No,No,*,S,1,,NA,1,NA,NA,NA,NA,NA
+ Seseli, S. condensatum,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Ligusticum,a L. scothicum ssp. scothicum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Ligusticum,b L. scothicum ssp. hultenii,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Podistera, P. macounii,No,No,No,No,S,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Pachypleurum, P. alpinum,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cenolophium, C. denudatum,No,No,No,No,R,S,1,,NA,NA,1,NA,NA,NA,NA
+ Cnidium, C. cnidiifolium,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Cnidium, C. ajanense,No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Conioselinum, C. tataricum,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Conioselinum, C. pacificum,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Angelica, A. sylvestris,No,No,No,No,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Angelica,a A. archangelica ssp. archangelica,No,No,No,F,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Angelica,b A. archangelica var. decurrens,No,No,No,No,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Angelica, A. atropurpurea,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Angelica, A. gmelinii,No,No,No,R,F,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Angelica, A. genuflexa (ssp. genuflexa),No,No,No,No,R,S,1,,NA,NA,NA,NA,NA,NA,NA
+ Angelica, A. tenuifolia,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Phloiodicarpus, P. villosus,No,No,No,R,S,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Heracleum,a H. sphondylium ssp. sibiricum,No,No,No,No,R,F,1,,NA,NA,1,NA,NA,NA,NA
+ Heracleum, H. lanatum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Heracleum, H. dissectum,No,No,No,No,R,F,1,,NA,NA,NA,NA,NA,NA,NA
+ Heracleum, H. persicum,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA
+ Heracleum, H. mantegazzianum,No,No,No,No,*,*,1,,NA,1,NA,NA,NA,NA,NA

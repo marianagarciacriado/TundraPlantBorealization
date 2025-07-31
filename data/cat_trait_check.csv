@@ -1,0 +1,351 @@
+"","SPECIES_CLEAN","family","FunctionalGroup","Woodiness","Deciduousness","BerryCat","N_fixer"
+"1","Achillea millefolium","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"2","Aconitum septentrionale","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"3","Agrostis capillaris","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"4","Agrostis mertensii","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"5","Agrostis vinealis","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"6","Alchemilla alpina","Rosaceae","Forb",0,"Not applicable","Not berry",0
+"7","Alopecurus alpinus","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"8","Alopecurus magellanicus","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"9","Andromeda polifolia","Ericaceae","Shrub",1,"Evergreen","Not berry",0
+"10","Androsace chamaejasme","Primulaceae","Forb",0,"Not applicable","Not berry",0
+"11","Androsace ochotensis","Primulaceae","Forb",0,"Not applicable","Not berry",0
+"12","Anemone parviflora","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"13","Antennaria alpina","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"14","Antennaria dioica","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"15","Antennaria friesiana","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"16","Antennaria pulchella","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"17","Anthoxanthum odoratum","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"18","Arabidopsis lyrata","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"19","Arctagrostis latifolia","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"20","Arctophila fulva","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"21","Arctous alpina","Ericaceae","Shrub",1,"Deciduous","Berry",0
+"22","Arctous rubra","Ericaceae","Shrub",1,"Deciduous","Berry",0
+"23","Arenaria pseudofrigida","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"24","Armeria maritima","Plumbaginaceae","Forb",0,"Not applicable","Not berry",0
+"25","Arnica griscomii","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"26","Arnica lessingii","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"27","Artemisia norvegica","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"28","Astragalus alpinus","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"29","Astragalus eucosmus","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"30","Astragalus frigidus","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"31","Astragalus umbellatus","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"32","Avenella flexuosa","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"33","Bartsia alpina","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"34","Betula glandulosa","Betulaceae","Shrub",1,"Deciduous","Not berry",0
+"35","Betula nana","Betulaceae","Shrub",1,"Deciduous","Not berry",0
+"36","Betula pubescens","Betulaceae","Shrub",1,"Deciduous","Not berry",0
+"37","Boykinia richardsonii","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"38","Braya purpurascens","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"39","Calamagrostis canadensis","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"40","Calamagrostis holmii","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"41","Calamagrostis inexpansa","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"42","Calamagrostis lapponica","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"43","Calamagrostis stricta","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"44","Calluna vulgaris","Ericaceae","Shrub",1,"Evergreen","Not berry",0
+"45","Campanula rotundifolia","Campanulaceae","Forb",0,"Not applicable","Not berry",0
+"46","Cardamine bellidifolia","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"47","Cardamine digitalis","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"48","Cardamine digitata","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"49","Cardamine pratensis","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"50","Carex atrata","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"51","Carex bigelowii","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"52","Carex brunnescens","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"53","Carex capillaris","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"54","Carex chordorrhiza","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"55","Carex ericetorum","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"56","Carex fimbriata","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"57","Carex flava","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"58","Carex fuliginosa","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"59","Carex lachenalii","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"60","Carex mackenziei","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"61","Carex marina","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"62","Carex microcarpa","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"63","Carex microchaeta","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"64","Carex microglochin","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"65","Carex nardina","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"66","Carex parallela","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"67","Carex rariflora","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"68","Carex rotundata","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"69","Carex rupestris","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"70","Carex saxatilis","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"71","Carex scirpoidea","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"72","Carex subspathacea","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"73","Carex supina","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"74","Carex vaginata","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"75","Carex williamsii","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"76","Carex × turfosa","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"77","Cassiope tetragona","Ericaceae","Shrub",1,"Evergreen","Not berry",0
+"78","Cerastium alpinum","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"79","Cerastium arcticum","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"80","Cerastium beeringianum","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"81","Cerastium cerastoides","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"82","Cerastium fontanum","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"83","Cerastium glabratum","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"84","Cerastium regelii","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"85","Chamorchis alpina","Orchidaceae","Forb",0,"Not applicable","Not berry",0
+"86","Chrysosplenium tetrandrum","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"87","Cochlearia officinalis","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"88","Dactylorhiza viridis","Orchidaceae","Forb",0,"Not applicable","Not berry",0
+"89","Deschampsia cespitosa","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"90","Deschampsia flexuosa","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"91","Diapensia lapponica","Diapensiaceae","Shrub",1,"Evergreen","Not berry",0
+"92","Doronicum grandiflorum","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"93","Draba lactea","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"94","Draba micropetala","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"95","Draba nivalis","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"96","Draba norvegica","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"97","Dryas integrifolia","Rosaceae","Shrub",1,"Evergreen","Not berry",0
+"98","Dryas octopetala","Rosaceae","Shrub",1,"Evergreen","Not berry",0
+"99","Dupontia fisheri","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"100","Empetrum nigrum","Ericaceae","Shrub",1,"Evergreen","Berry",0
+"101","Epilobium anagallidifolium","Onagraceae","Forb",0,"Not applicable","Not berry",0
+"102","Epilobium latifolium","Onagraceae","Forb",0,"Not applicable","Not berry",0
+"103","Erigeron humilis","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"104","Eriophorum angustifolium","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"105","Eriophorum chamissonis","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"106","Eriophorum scheuchzeri","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"107","Eriophorum vaginatum","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"108","Euphrasia arctica","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"109","Euphrasia frigida","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"110","Euphrasia wettsteinii","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"111","Eutrema edwardsii","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"112","Festuca altaica","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"113","Festuca baffinensis","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"114","Festuca brachyphylla","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"115","Festuca ovina","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"116","Festuca richardsonii","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"117","Festuca rubra","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"118","Festuca vivipara","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"119","Galium boreale","Rubiaceae","Forb",0,"Not applicable","Not berry",0
+"120","Galium normanii","Rubiaceae","Forb",0,"Not applicable","Not berry",0
+"121","Galium verum","Rubiaceae","Forb",0,"Not applicable","Not berry",0
+"122","Gentiana nivalis","Gentianaceae","Forb",0,"Not applicable","Not berry",0
+"123","Gentianella propinqua","Gentianaceae","Forb",0,"Not applicable","Not berry",0
+"124","Geranium sylvaticum","Geraniaceae","Forb",0,"Not applicable","Not berry",0
+"125","Geum glaciale","Rosaceae","Forb",0,"Not applicable","Not berry",0
+"126","Gnaphalium supinum","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"127","Gymnadenia conopsea","Orchidaceae","Forb",0,"Not applicable","Not berry",0
+"128","Harrimanella hypnoides","Ericaceae","Shrub",1,"Evergreen","Not berry",0
+"129","Hedysarum alpinum","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"130","Hedysarum boreale","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"131","Hedysarum hedysaroides","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"132","Hieracium alpinum","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"133","Hierochloe alpina","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"134","Hierochloe pauciflora","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"135","Hippuris vulgaris","Plantaginaceae","Forb",0,"Not applicable","Not berry",0
+"136","Juncus biglumis","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"137","Juniperus communis","Cupressaceae","Shrub",1,"Evergreen","Berry",0
+"138","Kalmia procumbens","Ericaceae","Shrub",1,"Evergreen","Not berry",0
+"139","Kobresia myosuroides","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"140","Kobresia sibirica","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"141","Kobresia simpliciuscula","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"142","Koenigia islandica","Polygonaceae","Forb",0,"Not applicable","Not berry",0
+"143","Lagotis glauca","Plantaginaceae","Forb",0,"Not applicable","Not berry",0
+"144","Lagotis minor","Plantaginaceae","Forb",0,"Not applicable","Not berry",0
+"145","Lesquerella arctica","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"146","Linnaea borealis","Caprifoliaceae","Shrub",1,"Evergreen","Not berry",0
+"147","Lupinus arcticus","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"148","Luzula arcuata","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"149","Luzula confusa","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"150","Luzula multiflora","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"151","Luzula nivalis","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"152","Luzula parviflora","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"153","Luzula spicata","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"154","Luzula wahlenbergii","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"155","Lycopodium complanatum","Lycopodiaceae","Forb",0,"Not applicable","Not berry",0
+"156","Lysimachia europaea","Primulaceae","Forb",0,"Not applicable","Not berry",0
+"157","Micranthes foliolosa","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"158","Micranthes hieraciifolia","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"159","Micranthes nelsoniana","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"160","Micranthes nivalis","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"161","Micranthes punctata","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"162","Minuartia arctica","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"163","Minuartia biflora","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"164","Minuartia obtusiloba","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"165","Minuartia rubella","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"166","Minuartia stricta","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"167","Nardus stricta","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"168","Omalotheca supina","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"169","Oreojuncus trifidus","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"170","Oreomecon radicata","Papaveraceae","Forb",0,"Not applicable","Not berry",0
+"171","Orthilia secunda","Ericaceae","Forb",0,"Not applicable","Not berry",0
+"172","Oxyria digyna","Polygonaceae","Forb",0,"Not applicable","Not berry",0
+"173","Oxytropis borealis","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"174","Oxytropis campestris","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"175","Oxytropis deflexa","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"176","Oxytropis maydelliana","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"177","Oxytropis nigrescens","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"178","Papaver lapponicum","Papaveraceae","Forb",0,"Not applicable","Not berry",0
+"179","Papaver macounii","Papaveraceae","Forb",0,"Not applicable","Not berry",0
+"180","Parnassia palustris","Celastraceae","Forb",0,"Not applicable","Not berry",0
+"181","Parrya nudicaulis","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"182","Pedicularis capitata","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"183","Pedicularis dasyantha","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"184","Pedicularis flammea","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"185","Pedicularis hirsuta","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"186","Pedicularis labradorica","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"187","Pedicularis lanata","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"188","Pedicularis langsdorffii","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"189","Pedicularis lapponica","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"190","Pedicularis sudetica","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"191","Pedicularis verticillata","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"192","Persicaria bistorta","Polygonaceae","Forb",0,"Not applicable","Not berry",0
+"193","Persicaria vivipara","Polygonaceae","Forb",0,"Not applicable","Not berry",0
+"194","Petasites frigidus","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"195","Phleum alpinum","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"196","Phyllodoce caerulea","Ericaceae","Shrub",1,"Evergreen","Not berry",0
+"197","Pilosella officinarum","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"198","Pinguicula villosa","Lentibulariaceae","Forb",0,"Not applicable","Not berry",0
+"199","Pinguicula vulgaris","Lentibulariaceae","Forb",0,"Not applicable","Not berry",0
+"200","Poa alpina","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"201","Poa arctica","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"202","Poa glauca","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"203","Poa pratensis","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"204","Polemonium acutiflorum","Polemoniaceae","Forb",0,"Not applicable","Not berry",0
+"205","Potentilla crantzii","Rosaceae","Forb",0,"Not applicable","Not berry",0
+"206","Potentilla erecta","Rosaceae","Forb",0,"Not applicable","Not berry",0
+"207","Potentilla fruticosa","Rosaceae","Shrub",1,"Deciduous","Not berry",0
+"208","Potentilla hyparctica","Rosaceae","Forb",0,"Not applicable","Not berry",0
+"209","Potentilla uniflora","Rosaceae","Forb",0,"Not applicable","Not berry",0
+"210","Prunella vulgaris","Lamiaceae","Forb",0,"Not applicable","Not berry",0
+"211","Pseudorchis albida","Orchidaceae","Forb",0,"Not applicable","Not berry",0
+"212","Pyrola grandiflora","Ericaceae","Forb",0,"Not applicable","Not berry",0
+"213","Pyrola minor","Ericaceae","Forb",0,"Not applicable","Not berry",0
+"214","Pyrola rotundifolia","Ericaceae","Forb",0,"Not applicable","Not berry",0
+"215","Ranunculus acris","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"216","Ranunculus lapponicus","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"217","Ranunculus nivalis","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"218","Ranunculus pallasii","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"219","Ranunculus pygmaeus","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"220","Rhinanthus minor","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"221","Rhodiola rosea","Crassulaceae","Forb",0,"Not applicable","Not berry",0
+"222","Rhododendron lapponicum","Ericaceae","Shrub",1,"Evergreen","Not berry",0
+"223","Rhododendron tomentosum","Ericaceae","Shrub",1,"Evergreen","Not berry",0
+"224","Rubus chamaemorus","Rosaceae","Forb",0,"Not applicable","Berry",0
+"225","Rumex acetosa","Polygonaceae","Forb",0,"Not applicable","Not berry",0
+"226","Rumex alpestris","Polygonaceae","Forb",0,"Not applicable","Not berry",0
+"227","Rumex aquaticus","Polygonaceae","Forb",0,"Not applicable","Not berry",0
+"228","Sagina nivalis","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"229","Sagina saginoides","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"230","Salix alaxensis","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"231","Salix arbusculoides","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"232","Salix arctica","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"233","Salix arctophila","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"234","Salix chamissonis","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"235","Salix daphnoides","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"236","Salix fuscescens","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"237","Salix glauca","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"238","Salix hastata","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"239","Salix herbacea","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"240","Salix lanata","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"241","Salix lanata x reticulata","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"242","Salix niphoclada","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"243","Salix ovalifolia","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"244","Salix phlebophylla","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"245","Salix phylicifolia","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"246","Salix planifolia","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"247","Salix polaris","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"248","Salix reticulata","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"249","Salix rotundifolia","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"250","Salix uva-ursi","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"251","Saussurea alpina","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"252","Saussurea angustifolia","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"253","Saxifraga aizoides","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"254","Saxifraga cernua","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"255","Saxifraga cespitosa","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"256","Saxifraga flagellaris","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"257","Saxifraga hirculus","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"258","Saxifraga oppositifolia","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"259","Saxifraga tricuspidata","Saxifragaceae","Forb",0,"Not applicable","Not berry",0
+"260","Scorzoneroides autumnalis","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"261","Senecio lugens","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"262","Sibbaldia procumbens","Rosaceae","Forb",0,"Not applicable","Not berry",0
+"263","Silene acaulis","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"264","Silene apetala","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"265","Silene involucrata","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"266","Silene uralensis","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"267","Solidago virgaurea","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"268","Stellaria crassipes","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"269","Stellaria humifusa","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"270","Stellaria longipes","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"271","Taraxacum croceum","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"272","Tephroseris integrifolia","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"273","Thalictrum alpinum","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"274","Thymus praecox","Lamiaceae","Shrub",1,"Evergreen","Not berry",0
+"275","Tofieldia pusilla","Tofieldiaceae","Forb",0,"Not applicable","Not berry",0
+"276","Trisetum spicatum","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"277","Trollius europaeus","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"278","Vaccinium microcarpum","Ericaceae","Shrub",1,"Evergreen","Berry",0
+"279","Vaccinium myrtillus","Ericaceae","Shrub",1,"Deciduous","Berry",0
+"280","Vaccinium uliginosum","Ericaceae","Shrub",1,"Deciduous","Berry",0
+"281","Vaccinium vitis-idaea","Ericaceae","Shrub",1,"Evergreen","Berry",0
+"282","Vahlodea atropurpurea","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"283","Valeriana capitata","Caprifoliaceae","Forb",0,"Not applicable","Not berry",0
+"284","Veronica alpina","Plantaginaceae","Forb",0,"Not applicable","Not berry",0
+"285","Veronica wormskjoldii","Plantaginaceae","Forb",0,"Not applicable","Not berry",0
+"286","Viola biflora","Violaceae","Forb",0,"Not applicable","Not berry",0
+"287","Viola palustris","Violaceae","Forb",0,"Not applicable","Not berry",0
+"288","XXXALCHEMILLA","Rosaceae","Forb",0,"Not applicable","Not berry",0
+"289","XXXAnemone","Ranunculaceae","Forb",0,"Not applicable","Not berry",0
+"290","XXXAntennaria","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"291","XXXArnica","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"292","XXXAstragalus","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"293","XXXCAMPANULA","Campanulaceae","Forb",0,"Not applicable","Not berry",0
+"294","XXXCAREX","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"295","XXXCOMP","Unknown","Forb",0,"Not applicable","Not berry",0
+"296","XXXCalamagrostis","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"297","XXXCardamine","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"298","XXXCarex","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"299","XXXCarex microchaeta&rupestris","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"300","XXXDRABA","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"301","XXXDUPONTIA","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"302","XXXDraba","Brassicaceae","Forb",0,"Not applicable","Not berry",0
+"303","XXXDryas","Rosaceae","Shrub",1,"Evergreen","Not berry",0
+"304","XXXEPILOBIUM","Onagraceae","Forb",0,"Not applicable","Not berry",0
+"305","XXXEriophorum","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"306","XXXEriophorum scheuchzeri/chamissonis","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"307","XXXFORB","Unknown","Forb",0,"Not applicable","Not berry",0
+"308","XXXFestuca","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"309","XXXGRASS","Unknown","Graminoid",0,"Not applicable","Not berry",0
+"310","XXXGentiana","Gentianaceae","Forb",0,"Not applicable","Not berry",0
+"311","XXXHedysarum","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"312","XXXHepatica","Unknown","Forb",0,"Not applicable","Not berry",0
+"313","XXXJuncus","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"314","XXXLuzula","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"315","XXXLuzula spicata/confusa","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"316","XXXMinuartia","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"317","XXXMinuartia NA","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"318","XXXOxytropis","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"319","XXXPEDICULARIS","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"320","XXXPOA","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"321","XXXPOLYGONUM","Polygonaceae","Forb",0,"Not applicable","Not berry",0
+"322","XXXPYROLA","Ericaceae","Forb",0,"Not applicable","Not berry",0
+"323","XXXPedicularis","Orobanchaceae","Forb",0,"Not applicable","Not berry",0
+"324","XXXPoa","Poaceae","Graminoid",0,"Not applicable","Not berry",0
+"325","XXXPolygonum","Polygonaceae","Forb",0,"Not applicable","Not berry",0
+"326","XXXPyrola","Ericaceae","Forb",0,"Not applicable","Not berry",0
+"327","XXXSEDGE","Unknown","Graminoid",0,"Not applicable","Not berry",0
+"328","XXXSTELLARIA","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"329","XXXSagina","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"330","XXXSalix","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"331","XXXSenecio","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"332","XXXStellaria","Caryophyllaceae","Forb",0,"Not applicable","Not berry",0
+"333","XXXTARAXACUM","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"334","XXXTaraxacum","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"335","XXXTofieldia","Tofieldiaceae","Forb",0,"Not applicable","Not berry",0
+"336","XXXUNIFOR","Unknown","Forb",0,"Not applicable","Not berry",0
+"337","XXXUNKDIC","Unknown","Forb",0,"Not applicable","Not berry",0
+"338","XXXWOODYDRYAS","Rosaceae","Shrub",1,"Evergreen","Not berry",0
+"339","XXXWOODYSALIX","Salicaceae","Shrub",1,"Deciduous","Not berry",0
+"340","XXXasteraceae","Asteraceae","Forb",0,"Not applicable","Not berry",0
+"341","XXXcarex","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"342","XXXkobresia","Cyperaceae","Graminoid",0,"Not applicable","Not berry",0
+"343","XXXluzula","Juncaceae","Graminoid",0,"Not applicable","Not berry",0
+"344","XXXotherforb","Unknown","Forb",0,"Not applicable","Not berry",0
+"345","XXXothergram","Unknown","Graminoid",0,"Not applicable","Not berry",0
+"346","XXXotherherb","Unknown","Graminoid",0,"Not applicable","Not berry",0
+"347","XXXoxytropis","Fabaceae","Forb",0,"Not applicable","Not berry",1
+"348","XXXped","Unknown","Forb",0,"Not applicable","Not berry",0
+"349","XXXunkOxytropis","Fabaceae","Forb",0,"Not applicable","Not berry",0
+"350","XXXunkgram","Unknown","Graminoid",0,"Not applicable","Not berry",0

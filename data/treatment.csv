@@ -1,0 +1,151 @@
+DataName,OrigValueStr,StdValueStr
+Treatment: Exposition,Natural/C,Natural environment
+Treatment: Exposition,natural,Natural environment
+Treatment CO2,ambient (about 360ppm),
+Treatment: Exposition,Natural Vegetation,Natural environment
+Treatment: Exposition,"natural vegetation, but not top canopy",Natural environment
+Treatment light comment,low natural light,
+Treatment light comment,natural light,
+Treatment light comment,"45% natural sunlight, nursery",
+Treatment light comment,"30% natural light, understorey",
+Treatment CO2,ambient,
+Treatment: Exposition,natural environment,Natural environment
+Treatment: Exposition,natural env.,Natural environment
+Treatment: Exposition,Natural environment,Natural environment
+Treatment: Exposition,Natural Environment,Natural environment
+Treatment: Exposition,Natural Enviroment,Natural environment
+Treatment: Exposition,natural wetlands (field conditions),Natural environment
+Treatment: Exposition,natural enviroment,Natural environment
+Treatment: Exposition,"natural grassland, experimental nutrient NP addition",Natural environment
+Treatment,control,
+Treatment: Exposition,Fully sunlit - Natural environment,Natural environment
+Treatment: Exposition,Shade - Natural environment,Natural environment
+Treatment CO2,not applicable,
+Treatment N supply,not applicable,
+Treatment P (phosphorus) supply,not applicable,
+Treatment light,not applicable,
+Treatment conditions,not applicable,
+Treatment,not applicable,
+Treatment: Exposition,natural forest,Natural environment
+Treatment: Exposition,"pots, outside in natural environment",Pots
+Treatment plant growth temperature during day,ambient,
+Treatment exposition 2,none,
+Treatment CO2,Control,
+Treatment CO2,Ambient,
+Treatment exposition 2,ambient,
+Treatment exposition 2,Ambient CO2,
+Treatment exposition 2,Ambient,
+Treatment exposition 2,control,
+Treatment plant growth temperature during day,ambient (Mean day temp: 21.6),
+Treatment plant growth temperature during day,ambient (12.4),
+Treatment plant growth temperature during day,ambient (13.4),
+Treatment plant growth temperature during day,ambient (16.9),
+Treatment plant growth temperature during day,ambient (12.3),
+Treatment plant growth temperature during day,ambient (18.1),
+Treatment plant growth temperature during day,Ambient,
+Treatment exposition 2,Ambient-open plot,
+Treatment exposition 2,Ambient O3,
+Treatment exposition 2,Ambient Open plot,
+Treatment exposition 2,control plot_drough exp,
+Treatment exposition 2,Control,
+Treatment exposition 2,None,
+Treatment light,Ambient light,
+Treatment,Control,
+Treatment Exposition comments,control,
+Treatment exposition culture,control,
+Treatment Exposition comments,"control, nitrogen addition, water manipulation_average",
+Treatment Exposition comments,"control, multi-nutrient addition_average",
+Treatment exposition culture,combined control / fertilized,
+Treatment exposition culture,ambient CO2,
+Treatment exposition culture,Unfertilized (control),
+Treatment exposition culture,ambient,
+Treatment exposition culture,"ambient CO2, fertilized",
+Treatment exposition culture,"ambient CO2, unfertilized",
+Treatment Exposition comments,"control, disturbance manipulation_average",
+Treatment exposition culture,control + thinned,
+Treatment exposition culture,Control,
+Treatment exposition culture,control/shaded,
+Treatment exposition culture,control/unshaded,
+Treatment exposition culture,None,
+Treatment exposition culture,Ambient CO2,
+Treatment exposition culture,"fertilized, ambient CO2",
+Treatment Exposition comments,"control, nitrogen addition_average",
+Treatment exposition culture,"fertilized and unfertilized plots, ambient CO2",
+Treatment exposition culture,"Experiment 1, low N, ambient CO2",
+Treatment exposition culture,"Experiment 1, high N, ambient CO2",
+Treatment Exposition comments,"control, light manipulation, nitrogen, phosphorus, and potassium addition_average",
+Treatment exposition culture,3-5 mo control,
+Treatment exposition culture,13 mo control,
+Treatment exposition culture,Ambient,
+Treatment Exposition comments,"control, organic matter addition_combined",
+Treatment exposition culture,"control, Lolium multiflorum added_combined",
+Treatment Exposition comments,"control, multi-nutrient addition_combined",
+Treatment exposition culture,Ambient N deposition,
+Treatment Exposition comments,"control, organic material addition_average",
+Treatment exposition culture,"Combined treatments: control, leaves added to soil",
+Treatment exposition culture,Control (no gap),
+Treatment exposition culture,"Experiment 2, low N, ambient CO2",
+Treatment exposition culture,"Experiment 2, high N, ambient CO2",
+Treatment Exposition comments,"control, water manipulation_average",
+Treatment conditions,Semi-controlled,
+Treatment: Exposition,natural-environment,Natural environment
+Treatment,None-AM,
+Treatment,AM+None-Drought,
+Treatment,None-AM+None-Drought,
+Treatment,None-AM+Drought1,
+Treatment,None-AM+Drought2,
+Treatment,None-AM+Drought3,
+Treatment,None-AM+Drought4,
+Treatment: Exposition,greenhouse - Northern Arizona University (standard controlled environment),Glasshouse
+Treatment: Exposition,Natural Envrionment,Natural environment
+Treatment: Exposition,natural environment,
+Treatment: Exposition,controlled environment room,Climate chamber
+Treatment nutrient supply,control,
+Treatment conditions,"Two treatments, ambient (approx. 350 ppm) and elevated (ambient + 350 ppm) CO2, plus outside co ...",
+Treatment conditions,Ambient CO2 treatment: Ambient air pumped through the growth chamber. Air is sampled at 4 m abo ...,
+Treatment nutrient supply level,None.,
+Treatment conditions,The carbon dioxide concentrations of the air inside the OTCs was either ambient or ambient plus ...,
+Treatment nutrient supply level,none,
+Treatment nutrient supply level,None,
+Treatment nutrient supply level,Natural conditions.,
+Treatment conditions,"Ambient or 700 ppm CO2, ambient or 100 ppb ozone peak through growing season. See watering regi ...",
+Treatment conditions,Doubled and ambient CO2: CO2 concentration was increased by injection of 350 umol (CO2) mol -1.,
+Treatment conditions,"ambient or 700 ppm CO2, ambient or 80 ppb peak ozone through growing season.",
+Treatment conditions,One control CO2 treatment at ambient CO2 level and one elevated treatment at ambient + 350 ppm  ...,
+Treatment conditions,Ambient : outside ambient atmospheric CO2 and Elevated CO2 : ambient + constant 350 ppm CO2. Th ...,
+Treatment nutrient supply level,Nutrient optimisation experiment with two treatments of the soil: control (C) and irrigation wi ...,
+Treatment conditions,Control: unbagged branch. Ambient: bagged ventilated with ambient air. Elevated: bagged ventila ...,
+Treatment conditions,One control CO2 treatment at ambient CO2 level and one elevated treatment at 710 ppm. Pure CO2  ...,
+Treatment: Exposition,natural vegetation,Natural environment
+Treatment: Exposition,Controlled climate chamber,Climate chamber
+Treatment: Exposition,"natural environment, sun exposed",Natural environment
+Treatment UVB Irradiance,no UV-B (control),
+Treatment: Exposition,"Outside ""natural"" vegetation",Natural environment
+Treatment Exposition comments,"inside measurements under controlled conditions, translucent walls",
+Treatment Exposition comments,"inside measurements under controlled conditions, opaque walls, normally smaller than a greenhouse",
+Treatment micro environment comments,pest controlled,
+Treatment: Exposition,None,Natural environment
+Treatment,ambient,
+Treatment: Exposition,Natural,Natural environment
+Treatment: Exposition,natural_environment,Natural environment
+Treatment: Exposition,none,Natural environment
+Treatment,None,
+Treatment,Control of experimental drought,
+Treatment,Control of experimental drought and warming,
+Treatment,none,
+Treatment: Exposition,natural envireonment,Natural environment
+Treatment: Exposition,natural wetland environment,Natural environment
+Treatment: Exposition,natural forest environment,Natural environment
+Treatment: Exposition,natural environment (biodiversity experiment),Natural environment
+Treatment: Exposition,Natural Forest,Natural environment
+Treatment: Exposition,controlled environment,Experimental
+Treatment: Exposition,natural env,Natural environment
+Treatment: Exposition period length; duration of exposition,"Natural environment, Herbarium specimen",
+Treatment nutrient supply level,natural,
+Treatment: Exposition,Control Plot,Control plot
+Treatment: Exposition,"natural environment, high regional N and S deposition",Natural environment
+Treatment,Control of nutrient supplement experiment,
+Treatment exposition culture,natural,
+Treatment: arbuscular mycorrhiza fungi (AMF) inoculation,None,
+Treatment: seaweed extract,None,
+Treatment: arbuscular mycorrhiza fungi (AMF) inoculation,none,
