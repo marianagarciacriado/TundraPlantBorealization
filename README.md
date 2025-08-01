@@ -1,6 +1,8 @@
 # TundraPlantBorealization
 Data and code for the article: García Criado et al. (2025). Borealization of plant communities in the Arctic is driven by boreal-tundra species. Ecology Letters.
 
+Data and code are also available in Zenodo at the following link: https://doi.org/10.5281/zenodo.14960354 
+
 # Authors
 Mariana García Criado, Isabel C. Barrio, James D. M. Speed, Anne D. Bjorkman, Sarah C. Elmendorf, Isla H. Myers-Smith, Rien Aerts, Juha M. Alatalo, Katlyn R. Betway-May, Robert G. Björk, Mats P. Björkman, Daan Blok, Elisabeth J. Cooper, J. Hans C. Cornelissen, William A. Gould, Ragnhild Gya, Greg H. R. Henry, Luise Hermanutz, Robert D. Hollister, Annika K. Jägerbrand, Ingibjörg S. Jónsdóttir, Elina Kaarlejärvi, Olga Khitun, Simone I. Lang, Petr Macek, Jeremy L. May, Anders Michelsen, Signe Normand, Siri L. Olsen, Eric Post, Riikka Rinnan, Niels Martin Schmidt, Sofie Sjogersten, Anne Tolvanen, Joachim P. Töpper, Andrew Trant, Vigdis Vandvik and Tage Vowles
 
