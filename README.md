@@ -7,7 +7,7 @@ Mariana García Criado, Isabel C. Barrio, James D. M. Speed, Anne D. Bjorkman, S
 Contact: Mariana García Criado, mariana.garcia.criado@gmail.com
 
 # Data use guidelines
-Data output from this manuscript are publicly available using a Creative Commons Attribution CC0 1.0 Universal copyright (see license.txt). Data are fully public but should be appropriately referenced by citing the paper. Although not mandatory, we additionally suggest that data users contact and collaborate with data contributors if this dataset will contribute a substantial proportion of observations used in a particular paper or analysis. 
+Data output from this manuscript are publicly available using a Creative Commons Attribution 4.0 International copyright (see license.txt). Data are fully public but should be appropriately referenced by citing the paper. Although not mandatory, we additionally suggest that data users contact and collaborate with data contributors if this dataset will contribute a substantial proportion of observations used in a particular paper or analysis. 
 
 # Data
 Climate data from CHELSA can be accessed at https://chelsa-climate.org/ 
